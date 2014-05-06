@@ -1,0 +1,495 @@
+body {
+    scrollbar-base-color:       #f08000;
+    scrollbar-arrow-color:      #f0c000;
+    scrollbar-darkshadow-color: #a07000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: bold;
+    color: #ffffff;
+}
+p {
+    font-family: Verdana, Arial, Helvitica, sans-serif;
+    font-size: xx-small;
+    font-style: bold;
+    color: #ffffff;
+}
+h1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+    font-style: italic;
+    color: #ffffff;
+}
+
+h4 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    font-weight: bold;
+    font-style: italic;
+    color: #ffffff;
+}
+
+.dm_banner {
+    font-family: Comic Sans MS;
+    font-size: xx-large;
+    font-style: bold;
+    color: #000000;
+}
+
+.dm_email {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    color: #ff9900;
+}
+.dm_warning {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    color: #ff0000;
+    background-color:#FFFFFF;
+    filter: DropShadow(Color=#000000, OffX=1, OffY=1, Positive=1);
+}
+.dm_red {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    color: #ff0000;
+}
+.dm_crit {
+    font-family: Comic Sans MS;
+    font-size: large;
+    font-style: bold;
+    color: #000000;
+	background-color: #ff5050;
+}
+.dm_green {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    color: #00ff00;
+}
+.dm_craft {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    color: #0088ff;
+}
+.dm_link {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    color: #ff9900;
+    filter: DropShadow(Color=#000000, OffX=1, OffY=1, Positive=1);
+}
+.dm_file {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: bold;
+    color: #ffffff;
+}
+.dm_news {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    color: #000000;
+hbackground-color:#ffffff;
+hborder-color: #505050;
+hborder-width: 3;
+
+}
+.dm_newshead {
+    font-family: times new roman;
+    font-size: xx-large;
+    font-style: normal;
+    color: #000000;
+hbackground-color:#ffffff;
+hborder-color: #505050;
+hborder-width: 3;
+
+}
+.dm_locater {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    color: #ffffff;
+    filter: DropShadow(Color=#000000, OffX=1, OffY=1, Positive=1);
+}
+.dm_newsheader {
+    height: 16;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: x-small;
+    color: #FFFFFF;
+    filter: DropShadow(Color=#000000, OffX=1, OffY=1, Positive=1);
+}
+.dm_copyright {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: italic;
+    color: #ffffff;
+}
+.dm_black {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    color: #000000;
+}
+.dm_white {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: italic;
+    border-width: 0;
+    color: #FFFFFF;
+}
+.dm_select_pic {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    font-style: normal;
+    border-width: 0;
+    background-color:#000000;
+}
+.dm_select_pic_bg {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    font-style: normal;
+    border-width: 0;
+    background-color:#ff9900;
+}
+.font {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    color: #FFFFFF;
+}
+td {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    color: #ff9900;
+}
+.td_base {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    color: #ff9900;
+    background-color: #000000;
+}
+
+
+.td_inform_item {
+    font-family: Comic Sans MS;
+    font-size: large;
+
+    background-color: #ffffff;
+    color: #000000;
+	
+}
+
+.td_inform3 {
+    font-family: Comic Sans MS;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #0000ff;
+    color: #ffffff;
+
+}
+
+.td_inform2 {
+    font-family: Comic Sans MS;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    background-color: #ff0000;
+    color: #ffffff;
+
+}
+
+.td_inform {
+    font-family: Comic Sans MS;
+    font-size: large;
+
+    background-color: #500000;
+    color: #ff7777;
+	
+}
+
+.td_inform:link {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.td_inform:visited {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.td_inform:active {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.td_inform:hover {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #550000;
+    background-color: #ff0000;
+}
+
+
+.td_warning {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    color: #ff0000;
+    background-color: #FFFFFF;
+	border-color: #000000;
+	border-width: 1;
+}
+.td_warning:link {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.td_warning:visited {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.td_warning:active {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.td_warning:hover {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #550000;
+    background-color: #ff0000;
+}
+
+.td_red {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    color: #ff0000;
+    background-color: #000000;
+	border-color: #000000;
+	border-width: 1;
+}
+.td_red:link {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.td_red:visited {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.td_red:active {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff0000;
+}
+
+.td_red:hover {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #550000;
+    background-color: #ff0000;
+}
+
+
+a {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffff00;
+}
+a:link {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffff00;
+}
+
+a:visited {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffff00;
+}
+
+a:active {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #bbff60;
+}
+
+a:hover {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+    background-color: #ffff00;
+}
+input, select, textarea {
+        font-family: verdana, arial, tahoma, helvetica, sans-serif;
+        font-weight: bold;
+        font-size: xx-small;
+        color: #FFFFFF;
+        background-color: #2D3038;
+}
+.what_margin_crazy_shit {
+    fmargin-bottom: 5px;
+}
+.dm_white_in_black_input {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-weight: bold;
+    color: #ff9900;
+    font-style: normal;
+    border-width:1pt;
+    border-color:#000000;
+    border-style:solid;
+    background-color:#331100;
+}
+.greycheck {
+    font-family: Verdana, Arial, Clean, Helvetica, sans-serif;
+    font-size : xx-small;
+    font-weight: bold;
+    border-width : 0px;
+    border-color : #888888;
+    background-color : #cccccc;
+}
+.examples_of_css_shit {
+    filter: glow(color=#526D00, strength=#2);
+    background-color: #00cccc;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: xx-small;
+    font-style: normal;
+    text-decoration: none;
+    text-shadow: black 0px 0px 5px;
+    gfcolor: #000000;
+    fackground: white; 
+    color: white;
+    text-shadow: 3px 3px red, yellow -3px 3px 2px, 3px -3px;
+    filter: blur(Add=1, Direction=255, Strength=6);
+    filter: alpha ;
+    filter: chroma ;
+    filter: dropshadow ;
+    filter: fliph ;
+    filter: flipv ;
+    filter: glow ;
+    filter: gray ;
+    filter: invert ;
+    filter: mask ;
+    filter: shadow;
+    filter: wave;
+    filter: xray;
+
+    background-color: maroon;
+    background-image: url(myimagefolder/bg.gif);
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background: yellow url(image.gif) bottom no-repeat;
+}
+.filler_data_to_make_this_file_so_so_fucking_big_so_fuck_you_and_have_a_nice_day {
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    001001100110011001100110011001100110011001100110011001100110011001100110011
+    100110011001100110011001100110011001100110011001100110011001100110011001100
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    011000110011001100110011001100110011001100110011001100110011001100110011001
+    011000110011001100110011001100110011001100110011001100110011001100110011001
+    011000110011001100110011001100110011001100110011001100110011001100110011001
+    011000110011001100110011001100110011001100110011001100110011001100110011001
+    101001100110011001100110011001100110011001100110011001100110011001100110011
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    010100110011001100110011001100110011001100110011001100110011001100110011001
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    110011001100110011001100110011001100110011001100110011001100110011001100111
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    110011001100110011001100110011001100110011001100110011001100110011001100110
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    001001100110011001100110011001100110011001100110011001100110011001100110011
+    100110011001100110011001100110011001100110011001100110011001100110011001100
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    011000110011001100110011001100110011001100110011001100110011001100110011001
+    011000110011001100110011001100110011001100110011001100110011001100110011001
+    011000110011001100110011001100110011001100110011001100110011001100110011001
+    011000110011001100110011001100110011001100110011001100110011001100110011001
+    101001100110011001100110011001100110011001100110011001100110011001100110011
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    010100110011001100110011001100110011001100110011001100110011001100110011001
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    110011001100110011001100110011001100110011001100110011001100110011001100111
+    001100110011001100110011001100110011001100110011001100110011001100110011001
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    110011001100110011001100110011001100110011001100110011001100110011001100110
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+    011001100110011001100110011001100110011001100110011001100110011001100110011
+}
+
+
+
+
+

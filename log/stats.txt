@@ -1,0 +1,710 @@
+<p>2009-06-29 07:01:17: ***********************> Seth logged in!</p>
+<p>2009-06-29 07:01:54: ***********************> Seth logged in!</p>
+<p>2009-06-29 07:03:57: ***********************> Seth logged in!</p>
+<p>2009-06-29 11:14:39: <br>
+vIPADD|76.100.56.103| [<a href="/adm.php?action=banip&ip=76.100.56.103">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=76.100.56.103">WhoIS IP</a>][<a href="http://76.100.56.103/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://by103w.bay103.mail.live.com/mail/InboxLight.aspx?n=1197003932" target=_blank>http://by103w.bay103.mail.live.com/mail/InboxLight.aspx<br>n=1197003932</a>|<br>[<a href="/adm.php?action=banref&ref=http://by103w.bay103.mail.live.com/mail/InboxLight.aspx%3Fn=1197003932">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://by103w.bay103.mail.live.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=by103w.bay103.mail.live.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 12:45:07: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 12:45:17: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 12:46:42: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 13:00:50: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 13:00:59: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 15:54:01: ***********************> Seth logged in!</p>
+<p>2009-06-29 17:51:50: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 18:30:47: ***********************> Seth logged in!</p>
+<p>2009-06-29 19:23:37: ***********************> Seth logged in!</p>
+<p>2009-06-29 19:38:27: <br>
+vIPADD|69.71.222.186| [<a href="/adm.php?action=banip&ip=69.71.222.186">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=69.71.222.186">WhoIS IP</a>][<a href="http://69.71.222.186/" target=_blank>Test Web Server</a>]<br>vAGENT||<br>
+vREFER|<a href="http://www.sitedossier.com/site/www.defectiveminds.com" target=_blank>http://www.sitedossier.com/site/www.defectiveminds.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.sitedossier.com/site/www.defectiveminds.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.sitedossier.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.sitedossier.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:07:05: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:07:22: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:13:09: ***********************> Seth logged in!</p>
+<p>2009-06-29 21:14:42: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:14:54: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:15:01: ***********************> Seth logged in!</p>
+<p>2009-06-29 21:15:51: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:16:00: ****> Fred joined!</p>
+<p>2009-06-29 21:16:01: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:16:41: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:17:07: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:17:16: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:17:17: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:17:24: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:17:24: ***********************> Seth logged in!</p>
+<p>2009-06-29 21:18:14: ***********************> Seth logged in!</p>
+<p>2009-06-29 21:19:24: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:19:37: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/join.php" target=_blank>http://defectiveminds.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:19:37: ****> will joined!</p>
+<p>2009-06-29 21:21:39: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:21:53: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 21:21:53: ***********************> will logged in!</p>
+<p>2009-06-29 22:12:08: ***********************> Seth logged in!</p>
+<p>2009-06-29 22:36:37: ***********************> will logged in!</p>
+<p>2009-06-29 22:36:49: ***********************> will logged in!</p>
+<p>2009-06-29 22:39:14: ***********************> will logged in!</p>
+<p>2009-06-29 22:43:30: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-29 22:43:30: ***********************> will logged in!</p>
+<p>2009-06-30 01:53:48: <br>
+vIPADD|132.68.55.77| [<a href="/adm.php?action=banip&ip=132.68.55.77">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=132.68.55.77">WhoIS IP</a>][<a href="http://132.68.55.77/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 01:53:49: <br>
+vIPADD|132.68.55.77| [<a href="/adm.php?action=banip&ip=132.68.55.77">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=132.68.55.77">WhoIS IP</a>][<a href="http://132.68.55.77/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 01:53:50: <br>
+vIPADD|132.68.55.77| [<a href="/adm.php?action=banip&ip=132.68.55.77">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=132.68.55.77">WhoIS IP</a>][<a href="http://132.68.55.77/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 01:53:50: ****> doogeri.87@mail.ru joined!</p>
+<p>2009-06-30 02:54:58: <br>
+vIPADD|64.246.165.180| [<a href="/adm.php?action=banip&ip=64.246.165.180">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=64.246.165.180">WhoIS IP</a>][<a href="http://64.246.165.180/" target=_blank>Test Web Server</a>]<br>vAGENT|SurveyBot/2.3 (Whois Source)|<br>
+vREFER|<a href="http://whois.domaintools.com/defectiveminds.com" target=_blank>http://whois.domaintools.com/defectiveminds.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://whois.domaintools.com/defectiveminds.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://whois.domaintools.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=whois.domaintools.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 03:06:19: <br>
+vIPADD|95.24.31.69| [<a href="/adm.php?action=banip&ip=95.24.31.69">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=95.24.31.69">WhoIS IP</a>][<a href="http://95.24.31.69/" target=_blank>Test Web Server</a>]<br>vAGENT|Opera/9.00 (Windows NT 5.1; U; ru)|<br>
+vREFER|<a href="http://retardedgorillas.com/" target=_blank>http://retardedgorillas.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://retardedgorillas.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://retardedgorillas.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=retardedgorillas.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 03:06:21: <br>
+vIPADD|95.24.31.69| [<a href="/adm.php?action=banip&ip=95.24.31.69">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=95.24.31.69">WhoIS IP</a>][<a href="http://95.24.31.69/" target=_blank>Test Web Server</a>]<br>vAGENT|Opera/9.00 (Windows NT 5.1; U; ru)|<br>
+vREFER|<a href="http://retardedgorillas.com/join.php" target=_blank>http://retardedgorillas.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://retardedgorillas.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://retardedgorillas.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=retardedgorillas.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 03:06:22: <br>
+vIPADD|95.24.31.69| [<a href="/adm.php?action=banip&ip=95.24.31.69">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=95.24.31.69">WhoIS IP</a>][<a href="http://95.24.31.69/" target=_blank>Test Web Server</a>]<br>vAGENT|Opera/9.00 (Windows NT 5.1; U; ru)|<br>
+vREFER|<a href="http://retardedgorillas.com/join.php" target=_blank>http://retardedgorillas.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://retardedgorillas.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://retardedgorillas.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=retardedgorillas.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 03:06:22: ****> elenrytu@mail.ru joined!</p>
+<p>2009-06-30 04:42:24: <br>
+vIPADD|94.142.129.31| [<a href="/adm.php?action=banip&ip=94.142.129.31">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=94.142.129.31">WhoIS IP</a>][<a href="http://94.142.129.31/" target=_blank>Test Web Server</a>]<br>vAGENT|Opera/7.60 (Windows NT 5.2; U)  [en] (IBM EVV/3.0/EAK01AG9/LE)|<br>
+vREFER|<a href="http://retardedgorillas.com/" target=_blank>http://retardedgorillas.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://retardedgorillas.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://retardedgorillas.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=retardedgorillas.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 07:35:01: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 07:35:01: ***********************> will logged in!</p>
+<p>2009-06-30 08:10:55: <br>
+vIPADD|94.142.129.31| [<a href="/adm.php?action=banip&ip=94.142.129.31">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=94.142.129.31">WhoIS IP</a>][<a href="http://94.142.129.31/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Update a; AOL 6.0; Windows 98)|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 12:52:45: <br>
+vIPADD|66.249.16.211| [<a href="/adm.php?action=banip&ip=66.249.16.211">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=66.249.16.211">WhoIS IP</a>][<a href="http://66.249.16.211/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible;)|<br>
+vREFER|<a href="http://whois.domaintools.com/defectiveminds.com" target=_blank>http://whois.domaintools.com/defectiveminds.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://whois.domaintools.com/defectiveminds.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://whois.domaintools.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=whois.domaintools.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 13:57:09: ***********************> Seth logged in!</p>
+<p>2009-06-30 14:18:52: ****> estherrarteaga@gmail.com joined!</p>
+<p>2009-06-30 15:34:13: <br>
+vIPADD|64.246.165.10| [<a href="/adm.php?action=banip&ip=64.246.165.10">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=64.246.165.10">WhoIS IP</a>][<a href="http://64.246.165.10/" target=_blank>Test Web Server</a>]<br>vAGENT|SurveyBot/2.3 (Whois Source)|<br>
+vREFER|<a href="http://whois.domaintools.com/howtobeevil.com" target=_blank>http://whois.domaintools.com/howtobeevil.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://whois.domaintools.com/howtobeevil.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://whois.domaintools.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=whois.domaintools.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 15:48:04: ****> 300609@cndnsfive.cn joined!</p>
+<p>2009-06-30 15:48:15: <br>
+vIPADD|89.28.14.35| [<a href="/adm.php?action=banip&ip=89.28.14.35">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=89.28.14.35">WhoIS IP</a>][<a href="http://89.28.14.35/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT) ::ELNSB50::000061100320025802a00111000000000507000900000000|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 15:48:15: <br>
+vIPADD|89.28.14.35| [<a href="/adm.php?action=banip&ip=89.28.14.35">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=89.28.14.35">WhoIS IP</a>][<a href="http://89.28.14.35/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT) ::ELNSB50::000061100320025802a00111000000000507000900000000|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 15:48:16: <br>
+vIPADD|89.28.14.35| [<a href="/adm.php?action=banip&ip=89.28.14.35">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=89.28.14.35">WhoIS IP</a>][<a href="http://89.28.14.35/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT) ::ELNSB50::000061100320025802a00111000000000507000900000000|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 15:54:38: <br>
+vIPADD|195.2.240.99| [<a href="/adm.php?action=banip&ip=195.2.240.99">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=195.2.240.99">WhoIS IP</a>][<a href="http://195.2.240.99/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 6.0)|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 18:18:06: <br>
+vIPADD|213.155.12.176| [<a href="/adm.php?action=banip&ip=213.155.12.176">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=213.155.12.176">WhoIS IP</a>][<a href="http://213.155.12.176/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 18:18:08: <br>
+vIPADD|213.155.12.176| [<a href="/adm.php?action=banip&ip=213.155.12.176">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=213.155.12.176">WhoIS IP</a>][<a href="http://213.155.12.176/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 18:18:10: ****> waymnantese@gmail.com joined!</p>
+<p>2009-06-30 18:18:10: <br>
+vIPADD|213.155.12.176| [<a href="/adm.php?action=banip&ip=213.155.12.176">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=213.155.12.176">WhoIS IP</a>][<a href="http://213.155.12.176/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 18:40:01: ***********************> Seth logged in!</p>
+<p>2009-06-30 18:46:35: <br>
+vIPADD|69.71.222.186| [<a href="/adm.php?action=banip&ip=69.71.222.186">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=69.71.222.186">WhoIS IP</a>][<a href="http://69.71.222.186/" target=_blank>Test Web Server</a>]<br>vAGENT||<br>
+vREFER|<a href="http://www.sitedossier.com/site/defectiveminds.com" target=_blank>http://www.sitedossier.com/site/defectiveminds.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.sitedossier.com/site/defectiveminds.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.sitedossier.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.sitedossier.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 19:31:16: ****> seth_2 joined!</p>
+<p>2009-06-30 19:33:38: ***********************> Seth logged in!</p>
+<p>2009-06-30 19:36:35: ***********************> Seth logged in!</p>
+<p>2009-06-30 20:14:08: <br>
+vIPADD|82.145.197.249| [<a href="/adm.php?action=banip&ip=82.145.197.249">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=82.145.197.249">WhoIS IP</a>][<a href="http://82.145.197.249/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Maxthon)|<br>
+vREFER|<a href="http://www.validpokerrooms.com/wwwtoprankedpokercominstruction.html" target=_blank>http://www.validpokerrooms.com/wwwtoprankedpokercominstruction.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.validpokerrooms.com/wwwtoprankedpokercominstruction.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.validpokerrooms.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.validpokerrooms.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 20:35:45: ***********************> Seth logged in!</p>
+<p>2009-06-30 21:40:44: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-06-30 21:40:44: ***********************> will logged in!</p>
+<p>2009-06-30 22:17:37: <br>
+vIPADD|65.110.11.2| [<a href="/adm.php?action=banip&ip=65.110.11.2">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=65.110.11.2">WhoIS IP</a>][<a href="http://65.110.11.2/" target=_blank>Test Web Server</a>]<br>vAGENT|WideCircles Analysis Agent ( http://www.widecircles.com ) <a href="http://www.widecircles.com">http://www.widecircles.com</a>|<br>
+vREFER|<a href="http://www.widecircles.com" target=_blank>http://www.widecircles.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.widecircles.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.widecircles.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.widecircles.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 00:17:22: ***********************> Seth logged in!</p>
+<p>2009-07-01 01:28:16: SEARCH: p=karl+urban</p>
+<p>2009-07-01 01:28:26: SEARCH: p=karl+urban</p>
+<p>2009-07-01 03:06:14: <br>
+vIPADD|121.9.221.188| [<a href="/adm.php?action=banip&ip=121.9.221.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=121.9.221.188">WhoIS IP</a>][<a href="http://121.9.221.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC; AtHome021)|<br>
+vREFER|<a href="http://www.candidcarinsure.com/liability_lowcost_driver_insurance_line_libertymutual_com_wyoming_jaguar_xk.html" target=_blank>http://www.candidcarinsure.com/liability_lowcost_driver_insurance_line_libertymutual_com_wyoming_jaguar_xk.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.candidcarinsure.com/liability_lowcost_driver_insurance_line_libertymutual_com_wyoming_jaguar_xk.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.candidcarinsure.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.candidcarinsure.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 05:50:16: <br>
+vIPADD|92.51.157.168| [<a href="/adm.php?action=banip&ip=92.51.157.168">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=92.51.157.168">WhoIS IP</a>][<a href="http://92.51.157.168/" target=_blank>Test Web Server</a>]<br>vAGENT|smart.apnoti.com Robot/v1.34 (http://smart.apnoti.com/index/aboutApnotiWebCrawler)|<br>
+vREFER|<a href="http://smart.apnoti.com" target=_blank>http://smart.apnoti.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://smart.apnoti.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://smart.apnoti.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=smart.apnoti.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 07:07:29: ***********************> Seth logged in!</p>
+<p>2009-07-01 09:25:23: <br>
+vIPADD|69.27.68.178| [<a href="/adm.php?action=banip&ip=69.27.68.178">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=69.27.68.178">WhoIS IP</a>][<a href="http://69.27.68.178/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; NetCaptor 6.5.0RC1)|<br>
+vREFER|<a href="http://www.furthercarehealth.com/page30877.html" target=_blank>http://www.furthercarehealth.com/page30877.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.furthercarehealth.com/page30877.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.furthercarehealth.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.furthercarehealth.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 13:17:56: <br>
+vIPADD|64.246.165.140| [<a href="/adm.php?action=banip&ip=64.246.165.140">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=64.246.165.140">WhoIS IP</a>][<a href="http://64.246.165.140/" target=_blank>Test Web Server</a>]<br>vAGENT|SurveyBot/2.3 (Whois Source)|<br>
+vREFER|<a href="http://whois.domaintools.com/retardedgorillas.com" target=_blank>http://whois.domaintools.com/retardedgorillas.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://whois.domaintools.com/retardedgorillas.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://whois.domaintools.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=whois.domaintools.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 15:57:34: ***********************> Seth logged in!</p>
+<p>2009-07-01 18:37:25: <br>
+vIPADD|159.213.87.22| [<a href="/adm.php?action=banip&ip=159.213.87.22">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=159.213.87.22">WhoIS IP</a>][<a href="http://159.213.87.22/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; iRider 2.21.1108; FDM)|<br>
+vREFER|<a href="http://www.howtoautoinsure.com/plan-direct-www-empiremarine-com-laramie-wyoming-sx4.html" target=_blank>http://www.howtoautoinsure.com/plan-direct-www-empiremarine-com-laramie-wyoming-sx4.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.howtoautoinsure.com/plan-direct-www-empiremarine-com-laramie-wyoming-sx4.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.howtoautoinsure.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.howtoautoinsure.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 20:11:04: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 20:11:04: ***********************> will logged in!</p>
+<p>2009-07-01 20:11:16: ***********************> will logged in!</p>
+<p>2009-07-01 20:55:18: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 20:55:18: ***********************> will logged in!</p>
+<p>2009-07-01 21:32:52: ***********************> Seth logged in!</p>
+<p>2009-07-01 22:48:35: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 22:48:35: ***********************> will logged in!</p>
+<p>2009-07-01 22:49:13: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-01 22:49:13: ***********************> will logged in!</p>
+<p>2009-07-02 00:05:43: <br>
+vIPADD|93.80.55.207| [<a href="/adm.php?action=banip&ip=93.80.55.207">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=93.80.55.207">WhoIS IP</a>][<a href="http://93.80.55.207/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; PeoplePal 6.2)|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 03:35:57: <br>
+vIPADD|64.246.165.160| [<a href="/adm.php?action=banip&ip=64.246.165.160">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=64.246.165.160">WhoIS IP</a>][<a href="http://64.246.165.160/" target=_blank>Test Web Server</a>]<br>vAGENT|SurveyBot/2.3 (Whois Source)|<br>
+vREFER|<a href="http://whois.domaintools.com/williamdelahoussaye.com" target=_blank>http://whois.domaintools.com/williamdelahoussaye.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://whois.domaintools.com/williamdelahoussaye.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://whois.domaintools.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=whois.domaintools.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 05:11:51: ****> timc547@gmail.com joined!</p>
+<p>2009-07-02 05:42:30: <br>
+vIPADD|212.95.54.38| [<a href="/adm.php?action=banip&ip=212.95.54.38">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=212.95.54.38">WhoIS IP</a>][<a href="http://212.95.54.38/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)|<br>
+vREFER|<a href="http://retardedgorillas.com/" target=_blank>http://retardedgorillas.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://retardedgorillas.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://retardedgorillas.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=retardedgorillas.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 05:42:33: <br>
+vIPADD|212.95.54.38| [<a href="/adm.php?action=banip&ip=212.95.54.38">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=212.95.54.38">WhoIS IP</a>][<a href="http://212.95.54.38/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)|<br>
+vREFER|<a href="http://retardedgorillas.com/join.php" target=_blank>http://retardedgorillas.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://retardedgorillas.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://retardedgorillas.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=retardedgorillas.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 05:42:35: <br>
+vIPADD|212.95.54.38| [<a href="/adm.php?action=banip&ip=212.95.54.38">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=212.95.54.38">WhoIS IP</a>][<a href="http://212.95.54.38/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)|<br>
+vREFER|<a href="http://retardedgorillas.com/join.php" target=_blank>http://retardedgorillas.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://retardedgorillas.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://retardedgorillas.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=retardedgorillas.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 05:42:35: ****> fcrasy@yandex.ru joined!</p>
+<p>2009-07-02 07:05:34: <br>
+vIPADD|79.111.106.227| [<a href="/adm.php?action=banip&ip=79.111.106.227">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=79.111.106.227">WhoIS IP</a>][<a href="http://79.111.106.227/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461)|<br>
+vREFER|<a href="http://r2606.com/the/?pid=14010" target=_blank>http://r2606.com/the/<br>pid=14010</a>|<br>[<a href="/adm.php?action=banref&ref=http://r2606.com/the/%3Fpid=14010">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://r2606.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=r2606.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 07:05:35: <br>
+vIPADD|79.111.106.227| [<a href="/adm.php?action=banip&ip=79.111.106.227">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=79.111.106.227">WhoIS IP</a>][<a href="http://79.111.106.227/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)|<br>
+vREFER|<a href="http://r2606.com/the/?pid=14010" target=_blank>http://r2606.com/the/<br>pid=14010</a>|<br>[<a href="/adm.php?action=banref&ref=http://r2606.com/the/%3Fpid=14010">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://r2606.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=r2606.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 07:05:35: <br>
+vIPADD|79.111.106.227| [<a href="/adm.php?action=banip&ip=79.111.106.227">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=79.111.106.227">WhoIS IP</a>][<a href="http://79.111.106.227/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Media Center PC|<br>
+vREFER|<a href="http://r2606.com/the/?pid=14010" target=_blank>http://r2606.com/the/<br>pid=14010</a>|<br>[<a href="/adm.php?action=banref&ref=http://r2606.com/the/%3Fpid=14010">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://r2606.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=r2606.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 08:07:49: <br>
+vIPADD|218.75.76.74| [<a href="/adm.php?action=banip&ip=218.75.76.74">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=218.75.76.74">WhoIS IP</a>][<a href="http://218.75.76.74/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; N_o_k_i_a)|<br>
+vREFER|<a href="http://www.localpokercasino.com/infoon-line-poker8.html" target=_blank>http://www.localpokercasino.com/infoon-line-poker8.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.localpokercasino.com/infoon-line-poker8.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.localpokercasino.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.localpokercasino.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 08:25:19: <br>
+vIPADD|82.145.197.249| [<a href="/adm.php?action=banip&ip=82.145.197.249">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=82.145.197.249">WhoIS IP</a>][<a href="http://82.145.197.249/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Maxthon)|<br>
+vREFER|<a href="http://www.localpokercasino.com/infopoquer-on-pc-xbet-rake-back-odds.html" target=_blank>http://www.localpokercasino.com/infopoquer-on-pc-xbet-rake-back-odds.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.localpokercasino.com/infopoquer-on-pc-xbet-rake-back-odds.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.localpokercasino.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.localpokercasino.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 08:31:47: <br>
+vIPADD|221.120.211.2| [<a href="/adm.php?action=banip&ip=221.120.211.2">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=221.120.211.2">WhoIS IP</a>][<a href="http://221.120.211.2/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Maxthon)|<br>
+vREFER|<a href="http://www.localpokercasino.com/infopoquer-on-pc-xbet-rake-back-odds.html" target=_blank>http://www.localpokercasino.com/infopoquer-on-pc-xbet-rake-back-odds.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.localpokercasino.com/infopoquer-on-pc-xbet-rake-back-odds.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.localpokercasino.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.localpokercasino.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 09:33:01: ***********************> Seth logged in!</p>
+<p>2009-07-02 10:14:37: <br>
+vIPADD|60.191.15.206| [<a href="/adm.php?action=banip&ip=60.191.15.206">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=60.191.15.206">WhoIS IP</a>][<a href="http://60.191.15.206/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 4.01; Windows NT Windows CE)|<br>
+vREFER|<a href="http://www.localpokercasino.com/infofree-www-straightflushcom-net-tournament.html" target=_blank>http://www.localpokercasino.com/infofree-www-straightflushcom-net-tournament.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.localpokercasino.com/infofree-www-straightflushcom-net-tournament.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.localpokercasino.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.localpokercasino.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 14:29:35: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 14:29:35: ***********************> will logged in!</p>
+<p>2009-07-02 14:41:04: ***********************> Seth logged in!</p>
+<p>2009-07-02 15:47:02: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 15:47:02: ***********************> will logged in!</p>
+<p>2009-07-02 15:58:33: ***********************> Seth logged in!</p>
+<p>2009-07-02 17:24:18: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 17:24:18: ***********************> will logged in!</p>
+<p>2009-07-02 17:44:13: ***********************> Seth logged in!</p>
+<p>2009-07-02 19:58:09: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 19:58:09: ***********************> will logged in!</p>
+<p>2009-07-02 20:32:03: *****> Seth replied to thread [re:Cats]</p>
+<p>2009-07-02 20:38:32: *****> will started a new thread! [Bugs]</p>
+<p>2009-07-02 20:49:48: *****> Seth started a new thread! [What the fuck!]</p>
+<p>2009-07-02 20:50:20: *****> Seth started a new thread! [Test threads]</p>
+<p>2009-07-02 20:50:34: *****> Seth started a new thread! [Test threads]</p>
+<p>2009-07-02 21:00:52: *****> Seth started a new thread! [Any bugs?]</p>
+<p>2009-07-02 21:03:49: ****> Seth2 joined!</p>
+<p>2009-07-02 21:05:19: ***********************> Seth logged in!</p>
+<p>2009-07-02 21:06:29: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 21:06:30: ***********************> Will logged in!</p>
+<p>2009-07-02 21:07:03: *****> Will replied to thread [re:Any bugs?]</p>
+<p>2009-07-02 21:41:19: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 21:41:20: ***********************> Will logged in!</p>
+<p>2009-07-02 22:14:32: ***********************> Seth logged in!</p>
+<p>2009-07-02 22:20:13: *****> Seth replied to thread [re:Any bugs?]</p>
+<p>2009-07-02 22:21:57: ****> Seth2 joined!</p>
+<p>2009-07-02 22:39:10: ****> Seth32 joined!</p>
+<p>2009-07-02 22:40:09: ****> Seth44 joined!</p>
+<p>2009-07-02 22:40:15: ***********************> Seth logged in!</p>
+<p>2009-07-02 22:50:38: ***********************> Seth2 logged in!</p>
+<p>2009-07-02 22:52:23: *****> Seth2 started a new thread! [Test]</p>
+<p>2009-07-02 23:02:37: ***********************> Seth logged in!</p>
+<p>2009-07-02 23:03:12: *****> Seth started a new thread! [Hello]</p>
+<p>2009-07-02 23:03:23: *****> Seth replied to thread [re:Hello]</p>
+<p>2009-07-02 23:25:15: <br>
+vIPADD|84.22.47.34| [<a href="/adm.php?action=banip&ip=84.22.47.34">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=84.22.47.34">WhoIS IP</a>][<a href="http://84.22.47.34/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1)|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 23:46:51: <br>
+vIPADD|174.142.75.85| [<a href="/adm.php?action=banip&ip=174.142.75.85">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=174.142.75.85">WhoIS IP</a>][<a href="http://174.142.75.85/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1.1.4322)|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 23:46:56: <br>
+vIPADD|174.142.75.85| [<a href="/adm.php?action=banip&ip=174.142.75.85">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=174.142.75.85">WhoIS IP</a>][<a href="http://174.142.75.85/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1.1.4322)|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 23:46:59: <br>
+vIPADD|174.142.75.85| [<a href="/adm.php?action=banip&ip=174.142.75.85">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=174.142.75.85">WhoIS IP</a>][<a href="http://174.142.75.85/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1.1.4322)|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-02 23:46:59: ****> gordpetrovels@gmail.com joined!</p>
+<p>2009-07-02 23:48:47: ***********************> Seth logged in!</p>
+<p>2009-07-02 23:50:54: ****> imacomputa joined!</p>
+<p>2009-07-03 00:38:26: ***********************> Seth logged in!</p>
+<p>2009-07-03 08:51:53: ***********************> Seth logged in!</p>
+<p>2009-07-03 08:56:18: ***********************> imacomputa logged in!</p>
+<p>2009-07-03 09:06:29: *****> imacomputa started a new thread! [Imacomputa]</p>
+<p>2009-07-03 10:41:41: ***********************> Seth logged in!</p>
+<p>2009-07-03 11:14:41: *****> Seth started a new thread! [Items]</p>
+<p>2009-07-03 12:20:04: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-03 12:20:04: ***********************> Will logged in!</p>
+<p>2009-07-03 14:41:48: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-03 14:41:48: ***********************> Will logged in!</p>
+<p>2009-07-03 16:33:18: ***********************> Seth logged in!</p>
+<p>2009-07-03 20:20:17: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-03 20:20:17: ***********************> Will logged in!</p>
+<p>2009-07-03 21:16:59: ***********************> Seth logged in!</p>
+<p>2009-07-03 23:44:20: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-03 23:44:20: ***********************> Will logged in!</p>
+<p>2009-07-04 00:38:58: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-04 00:38:58: ***********************> Will logged in!</p>
+<p>2009-07-04 00:46:41: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-04 00:46:41: ***********************> Will logged in!</p>
+<p>2009-07-04 02:11:07: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-04 02:11:07: ***********************> Will logged in!</p>
+<p>2009-07-04 07:38:48: <br>
+vIPADD|92.51.157.168| [<a href="/adm.php?action=banip&ip=92.51.157.168">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=92.51.157.168">WhoIS IP</a>][<a href="http://92.51.157.168/" target=_blank>Test Web Server</a>]<br>vAGENT|smart.apnoti.com Robot/v1.34 (http://smart.apnoti.com/index/aboutApnotiWebCrawler)|<br>
+vREFER|<a href="http://smart.apnoti.com" target=_blank>http://smart.apnoti.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://smart.apnoti.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://smart.apnoti.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=smart.apnoti.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-04 07:39:35: <br>
+vIPADD|92.51.157.168| [<a href="/adm.php?action=banip&ip=92.51.157.168">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=92.51.157.168">WhoIS IP</a>][<a href="http://92.51.157.168/" target=_blank>Test Web Server</a>]<br>vAGENT|smart.apnoti.com Robot/v1.34 (http://smart.apnoti.com/index/aboutApnotiWebCrawler)|<br>
+vREFER|<a href="http://smart.apnoti.com" target=_blank>http://smart.apnoti.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://smart.apnoti.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://smart.apnoti.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=smart.apnoti.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-04 10:49:44: ***********************> Seth logged in!</p>
+<p>2009-07-04 12:14:46: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-04 12:14:46: ***********************> Will logged in!</p>
+<p>2009-07-04 17:24:44: *****> Seth started a new thread! [I found some old graphics ]</p>
+<p>2009-07-04 23:07:25: ***********************> imacomputa logged in!</p>
+<p>2009-07-04 23:13:42: SEARCH: p=Karl+Urban</p>
+<p>2009-07-05 00:31:46: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-05 00:31:46: ***********************> Will logged in!</p>
+<p>2009-07-05 10:31:00: ***********************> Seth logged in!</p>
+<p>2009-07-05 19:05:24: ***********************> Seth2 logged in!</p>
+<p>2009-07-05 19:54:05: ***********************> Seth logged in!</p>
+<p>2009-07-05 19:56:49: ***********************> Seth logged in!</p>
+<p>2009-07-05 19:56:59: ***********************> Seth2 logged in!</p>
+<p>2009-07-05 20:22:07: ***********************> Seth logged in!</p>
+<p>2009-07-05 23:01:39: ***********************> imacomputa logged in!</p>
+<p>2009-07-05 23:03:15: ***********************> Seth logged in!</p>
+<p>2009-07-06 03:02:35: <br>
+vIPADD|62.175.249.249| [<a href="/adm.php?action=banip&ip=62.175.249.249">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=62.175.249.249">WhoIS IP</a>][<a href="http://62.175.249.249/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC; AtHome021)|<br>
+vREFER|<a href="http://www.justlygamble.com/best-flaming-fortune-progressive-jackpot.html" target=_blank>http://www.justlygamble.com/best-flaming-fortune-progressive-jackpot.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.justlygamble.com/best-flaming-fortune-progressive-jackpot.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.justlygamble.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.justlygamble.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 03:44:08: <br>
+vIPADD|212.95.54.38| [<a href="/adm.php?action=banip&ip=212.95.54.38">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=212.95.54.38">WhoIS IP</a>][<a href="http://212.95.54.38/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; KKman2.0)|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 03:44:10: <br>
+vIPADD|212.95.54.38| [<a href="/adm.php?action=banip&ip=212.95.54.38">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=212.95.54.38">WhoIS IP</a>][<a href="http://212.95.54.38/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; KKman2.0)|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 03:44:11: <br>
+vIPADD|212.95.54.38| [<a href="/adm.php?action=banip&ip=212.95.54.38">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=212.95.54.38">WhoIS IP</a>][<a href="http://212.95.54.38/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; KKman2.0)|<br>
+vREFER|<a href="http://howtobeevil.com/join.php" target=_blank>http://howtobeevil.com/join.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/join.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 03:44:11: ****> fcrasy@yandex.ru joined!</p>
+<p>2009-07-06 04:37:39: SEARCH: q=defective+fucker</p>
+<p>2009-07-06 07:19:48: ***********************> Seth logged in!</p>
+<p>2009-07-06 09:39:15: ***********************> Seth logged in!</p>
+<p>2009-07-06 10:30:04: SEARCH: p=robot+boy</p>
+<p>2009-07-06 12:06:28: <br>
+vIPADD|87.106.82.74| [<a href="/adm.php?action=banip&ip=87.106.82.74">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=87.106.82.74">WhoIS IP</a>][<a href="http://87.106.82.74/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; KITV4.7 Wanadoo)|<br>
+vREFER|<a href="http://www.justlygamble.com/play-online-lustige-sieben-game-sign-up-bonus.html" target=_blank>http://www.justlygamble.com/play-online-lustige-sieben-game-sign-up-bonus.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.justlygamble.com/play-online-lustige-sieben-game-sign-up-bonus.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.justlygamble.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.justlygamble.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 14:42:26: ***********************> Seth logged in!</p>
+<p>2009-07-06 16:06:50: ***********************> Seth logged in!</p>
+<p>2009-07-06 16:44:52: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 16:44:52: ***********************> Will logged in!</p>
+<p>2009-07-06 16:59:55: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 16:59:55: ***********************> Will logged in!</p>
+<p>2009-07-06 17:25:29: ***********************> Seth logged in!</p>
+<p>2009-07-06 18:17:06: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 18:17:06: ***********************> Will logged in!</p>
+<p>2009-07-06 18:24:08: ***********************> Seth logged in!</p>
+<p>2009-07-06 18:27:06: *****> Will replied to thread [re:Any bugs?]</p>
+<p>2009-07-06 18:29:47: *****> Will replied to thread [re:Any bugs?]</p>
+<p>2009-07-06 18:35:13: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 18:35:13: ***********************> Will logged in!</p>
+<p>2009-07-06 18:42:19: *****> Seth replied to thread [re:Any bugs?]</p>
+<p>2009-07-06 20:14:56: ***********************> Seth logged in!</p>
+<p>2009-07-06 20:51:15: *****> Seth started a new thread! [Latest Stuff]</p>
+<p>2009-07-06 20:56:50: *****> Seth replied to thread [re:Formulas]</p>
+<p>2009-07-06 20:58:36: *****> Seth replied to thread [re:Formulas]</p>
+<p>2009-07-06 21:00:11: *****> Seth replied to thread [re:Formulas]</p>
+<p>2009-07-06 22:45:06: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 22:45:06: ***********************> Will logged in!</p>
+<p>2009-07-06 23:45:11: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-06 23:45:11: ***********************> Will logged in!</p>
+<p>2009-07-07 03:31:35: <br>
+vIPADD|64.246.161.30| [<a href="/adm.php?action=banip&ip=64.246.161.30">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=64.246.161.30">WhoIS IP</a>][<a href="http://64.246.161.30/" target=_blank>Test Web Server</a>]<br>vAGENT|SurveyBot/2.3 (Whois Source)|<br>
+vREFER|<a href="http://whois.domaintools.com/defectiveminds.com" target=_blank>http://whois.domaintools.com/defectiveminds.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://whois.domaintools.com/defectiveminds.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://whois.domaintools.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=whois.domaintools.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 05:11:33: <br>
+vIPADD|194.170.32.252| [<a href="/adm.php?action=banip&ip=194.170.32.252">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=194.170.32.252">WhoIS IP</a>][<a href="http://194.170.32.252/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC; AtHome021)|<br>
+vREFER|<a href="http://www.worthautoinsure.com/quick_teen_driving_ins_quote_www_ge_travelers.html" target=_blank>http://www.worthautoinsure.com/quick_teen_driving_ins_quote_www_ge_travelers.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.worthautoinsure.com/quick_teen_driving_ins_quote_www_ge_travelers.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.worthautoinsure.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.worthautoinsure.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 05:22:51: <br>
+vIPADD|114.127.246.36| [<a href="/adm.php?action=banip&ip=114.127.246.36">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=114.127.246.36">WhoIS IP</a>][<a href="http://114.127.246.36/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)|<br>
+vREFER|<a href="http://www.worthautoinsure.com/auto_insurance.html" target=_blank>http://www.worthautoinsure.com/auto_insurance.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.worthautoinsure.com/auto_insurance.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.worthautoinsure.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.worthautoinsure.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 06:39:27: <br>
+vIPADD|200.65.127.161| [<a href="/adm.php?action=banip&ip=200.65.127.161">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=200.65.127.161">WhoIS IP</a>][<a href="http://200.65.127.161/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)|<br>
+vREFER|<a href="http://www.worthautoinsure.com/driver_insurance_comprehensive_direct_www_patronsoxfordmutual_glendale_az_used.html" target=_blank>http://www.worthautoinsure.com/driver_insurance_comprehensive_direct_www_patronsoxfordmutual_glendale_az_used.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.worthautoinsure.com/driver_insurance_comprehensive_direct_www_patronsoxfordmutual_glendale_az_used.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.worthautoinsure.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.worthautoinsure.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 08:07:55: <br>
+vIPADD|77.23.217.176| [<a href="/adm.php?action=banip&ip=77.23.217.176">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=77.23.217.176">WhoIS IP</a>][<a href="http://77.23.217.176/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Media Center PC|<br>
+vREFER|<a href="http://retardedgorillas.com/" target=_blank>http://retardedgorillas.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://retardedgorillas.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://retardedgorillas.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=retardedgorillas.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 08:09:35: SEARCH: q=defective</p>
+<p>2009-07-07 11:03:56: <br>
+vIPADD|59.61.236.18| [<a href="/adm.php?action=banip&ip=59.61.236.18">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=59.61.236.18">WhoIS IP</a>][<a href="http://59.61.236.18/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; iOpus-I-M)|<br>
+vREFER|<a href="http://www.worthautoinsure.com/motorcycle_insurence_for_woman_drivers_quot_online_graindealers_com_in_baltimore_md_collector.html" target=_blank>http://www.worthautoinsure.com/motorcycle_insurence_for_woman_drivers_quot_online_graindealers_com_in_baltimore_md_collector.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.worthautoinsure.com/motorcycle_insurence_for_woman_drivers_quot_online_graindealers_com_in_baltimore_md_collector.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.worthautoinsure.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.worthautoinsure.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 14:24:07: SEARCH: p=monkey+animations</p>
+<p>2009-07-07 14:24:17: SEARCH: p=monkey+animations</p>
+<p>2009-07-07 16:13:56: <br>
+vIPADD|64.246.161.190| [<a href="/adm.php?action=banip&ip=64.246.161.190">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=64.246.161.190">WhoIS IP</a>][<a href="http://64.246.161.190/" target=_blank>Test Web Server</a>]<br>vAGENT|SurveyBot/2.3 (Whois Source)|<br>
+vREFER|<a href="http://whois.domaintools.com/howtobeevil.com" target=_blank>http://whois.domaintools.com/howtobeevil.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://whois.domaintools.com/howtobeevil.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://whois.domaintools.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=whois.domaintools.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 16:28:08: ***********************> Seth logged in!</p>
+<p>2009-07-07 16:38:38: <br>
+vIPADD|87.250.239.211| [<a href="/adm.php?action=banip&ip=87.250.239.211">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=87.250.239.211">WhoIS IP</a>][<a href="http://87.250.239.211/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)|<br>
+vREFER|<a href="http://www.yandex.ru/yandsearch?stype=&nl=0&text=%ee%e1%ff%e7%e0%f2%e5%eb%fc%ed%fb%e9+%e0%f3%e4%e8%f2" target=_blank>http://www.yandex.ru/yandsearch<br>stype=<br>nl=0<br>text=%ee%e1%ff%e7%e0%f2%e5%eb%fc%ed%fb%e9+%e0%f3%e4%e8%f2</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.yandex.ru/yandsearch%3Fstype=%26nl=0%26text=%ee%e1%ff%e7%e0%f2%e5%eb%fc%ed%fb%e9+%e0%f3%e4%e8%f2">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.yandex.ru/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.yandex.ru">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 17:02:20: ***********************> imacomputa logged in!</p>
+<p>2009-07-07 17:03:15: ***********************> Seth logged in!</p>
+<p>2009-07-07 17:04:49: ***********************> imacomputa logged in!</p>
+<p>2009-07-07 17:05:18: ***********************> imacomputa logged in!</p>
+<p>2009-07-07 17:08:48: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 17:08:48: ***********************> Will logged in!</p>
+<p>2009-07-07 17:10:45: ***********************> Seth logged in!</p>
+<p>2009-07-07 17:16:53: *****> Seth replied to thread [re:Vendor issues]</p>
+<p>2009-07-07 17:20:09: *****> Seth started a new thread! [Test]</p>
+<p>2009-07-07 18:35:24: *****> Seth replied to thread [re:Vendor issues]</p>
+<p>2009-07-07 18:39:26: ***********************> Seth logged in!</p>
+<p>2009-07-07 19:04:26: <br>
+vIPADD|190.128.225.182| [<a href="/adm.php?action=banip&ip=190.128.225.182">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=190.128.225.182">WhoIS IP</a>][<a href="http://190.128.225.182/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1.0.3705)|<br>
+vREFER|<a href="http://www.throughhealthcare.com/health-care-insurance1.php" target=_blank>http://www.throughhealthcare.com/health-care-insurance1.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.throughhealthcare.com/health-care-insurance1.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.throughhealthcare.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.throughhealthcare.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 19:20:31: <br>
+vIPADD|119.167.225.136| [<a href="/adm.php?action=banip&ip=119.167.225.136">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=119.167.225.136">WhoIS IP</a>][<a href="http://119.167.225.136/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1.0.3705)|<br>
+vREFER|<a href="http://www.throughhealthcare.com/discount-reviews-qoutes-of-medical-insurance-on-line-onward-ins-company-in-windsor-ontario.php" target=_blank>http://www.throughhealthcare.com/discount-reviews-qoutes-of-medical-insurance-on-line-onward-ins-company-in-windsor-ontario.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.throughhealthcare.com/discount-reviews-qoutes-of-medical-insurance-on-line-onward-ins-company-in-windsor-ontario.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.throughhealthcare.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.throughhealthcare.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 19:42:00: *****> Seth started a new thread! [Double post in Firefox]</p>
+<p>2009-07-07 20:37:47: SEARCH: p=smoking+animations</p>
+<p>2009-07-07 20:38:08: SEARCH: p=smoking+animations</p>
+<p>2009-07-07 21:22:20: <br>
+vIPADD|75.155.169.125| [<a href="/adm.php?action=banip&ip=75.155.169.125">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=75.155.169.125">WhoIS IP</a>][<a href="http://75.155.169.125/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; AIRF)|<br>
+vREFER|<a href="http://www.throughhealthcare.com/buy-quotation-of-health-for-the-supplementary-on-line-www-cardinal-com-of-georgetown-delaware.php" target=_blank>http://www.throughhealthcare.com/buy-quotation-of-health-for-the-supplementary-on-line-www-cardinal-com-of-georgetown-delaware.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.throughhealthcare.com/buy-quotation-of-health-for-the-supplementary-on-line-www-cardinal-com-of-georgetown-delaware.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.throughhealthcare.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.throughhealthcare.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 22:28:42: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-07 22:28:42: ***********************> Will logged in!</p>
+<p>2009-07-08 03:00:54: <br>
+vIPADD|41.210.252.11| [<a href="/adm.php?action=banip&ip=41.210.252.11">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=41.210.252.11">WhoIS IP</a>][<a href="http://41.210.252.11/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Crazy Browser 1.x.x)|<br>
+vREFER|<a href="http://www.throughhealthcare.com/cheaper-quota-of-health-ins-with-small-group-program-fisher-and-paykel-health-west-valley-city-ut-comparison.php" target=_blank>http://www.throughhealthcare.com/cheaper-quota-of-health-ins-with-small-group-program-fisher-and-paykel-health-west-valley-city-ut-comparison.php</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.throughhealthcare.com/cheaper-quota-of-health-ins-with-small-group-program-fisher-and-paykel-health-west-valley-city-ut-comparison.php">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.throughhealthcare.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.throughhealthcare.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 07:06:02: ***********************> Seth logged in!</p>
+<p>2009-07-08 09:37:17: <br>
+vIPADD|130.70.154.175| [<a href="/adm.php?action=banip&ip=130.70.154.175">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=130.70.154.175">WhoIS IP</a>][<a href="http://130.70.154.175/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 09:37:17: ***********************> Will logged in!</p>
+<p>2009-07-08 11:03:48: <br>
+vIPADD|200.65.127.161| [<a href="/adm.php?action=banip&ip=200.65.127.161">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=200.65.127.161">WhoIS IP</a>][<a href="http://200.65.127.161/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)|<br>
+vREFER|<a href="http://howtobeevil.com/" target=_blank>http://howtobeevil.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://howtobeevil.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://howtobeevil.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=howtobeevil.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 13:33:48: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 13:33:48: ***********************> Will logged in!</p>
+<p>2009-07-08 14:02:41: *****> Will started a new thread! [Good-Evil and Classes]</p>
+<p>2009-07-08 14:12:15: *****> Will started a new thread! [World and local maps]</p>
+<p>2009-07-08 14:16:54: *****> Will started a new thread! [Schools]</p>
+<p>2009-07-08 14:25:56: <br>
+vIPADD|64.246.165.190| [<a href="/adm.php?action=banip&ip=64.246.165.190">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=64.246.165.190">WhoIS IP</a>][<a href="http://64.246.165.190/" target=_blank>Test Web Server</a>]<br>vAGENT|SurveyBot/2.3 (Whois Source)|<br>
+vREFER|<a href="http://whois.domaintools.com/retardedgorillas.com" target=_blank>http://whois.domaintools.com/retardedgorillas.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://whois.domaintools.com/retardedgorillas.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://whois.domaintools.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=whois.domaintools.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 14:34:16: *****> Will started a new thread! [Stats]</p>
+<p>2009-07-08 15:03:33: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 15:03:33: ***********************> Will logged in!</p>
+<p>2009-07-08 15:05:54: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 15:05:54: ***********************> Will logged in!</p>
+<p>2009-07-08 15:37:32: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 15:37:32: ***********************> Will logged in!</p>
+<p>2009-07-08 16:06:49: ***********************> Seth logged in!</p>
+<p>2009-07-08 16:22:17: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 16:22:17: ***********************> Will logged in!</p>
+<p>2009-07-08 16:25:36: *****> Seth replied to thread [re:Stats]</p>
+<p>2009-07-08 16:26:31: *****> Seth replied to thread [re:Schools]</p>
+<p>2009-07-08 17:11:17: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 17:11:17: ***********************> Will logged in!</p>
+<p>2009-07-08 18:17:50: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 18:17:50: ***********************> Will logged in!</p>
+<p>2009-07-08 18:35:26: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5 (.NET CLR 3.5.30729)|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-08 18:35:26: ***********************> Will logged in!</p>
+<p>2009-07-08 18:40:16: *****> Will started a new thread! [Motivation error]</p>
+<p>2009-07-08 18:41:27: *****> Seth replied to thread [re:Motivation error]</p>
+<p>2009-07-08 18:43:06: ****> seth3 joined!</p>
+<p>2009-07-08 18:43:49: ***********************> seth3 logged in!</p>
+<p>2009-07-08 18:51:19: ***********************> Seth logged in!</p>
+<p>2009-07-08 18:51:53: ***********************> seth3 logged in!</p>
+<p>2009-07-08 18:55:24: ***********************> Seth logged in!</p>
+<p>2009-07-08 19:04:30: ***********************> seth3 logged in!</p>
+<p>2009-07-08 19:09:48: ***********************> Seth logged in!</p>
+<p>2009-07-08 19:10:49: ***********************> seth3 logged in!</p>
+<p>2009-07-08 19:21:38: ***********************> Seth logged in!</p>
+<p>2009-07-08 19:22:02: ***********************> seth3 logged in!</p>
+<p>2009-07-08 19:33:41: ***********************> Seth logged in!</p>
+<p>2009-07-09 00:56:55: <br>
+vIPADD|195.139.235.30| [<a href="/adm.php?action=banip&ip=195.139.235.30">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=195.139.235.30">WhoIS IP</a>][<a href="http://195.139.235.30/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC; AtHome021)|<br>
+vREFER|<a href="http://www.intocasinopoker.com/www-caribbeansunpoker-com.html" target=_blank>http://www.intocasinopoker.com/www-caribbeansunpoker-com.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.intocasinopoker.com/www-caribbeansunpoker-com.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.intocasinopoker.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.intocasinopoker.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-09 01:08:40: <br>
+vIPADD|114.127.246.36| [<a href="/adm.php?action=banip&ip=114.127.246.36">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=114.127.246.36">WhoIS IP</a>][<a href="http://114.127.246.36/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 98)|<br>
+vREFER|<a href="http://www.intocasinopoker.com/the-palms-casino-poker-room.html" target=_blank>http://www.intocasinopoker.com/the-palms-casino-poker-room.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.intocasinopoker.com/the-palms-casino-poker-room.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.intocasinopoker.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.intocasinopoker.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-09 03:12:20: <br>
+vIPADD|62.175.249.249| [<a href="/adm.php?action=banip&ip=62.175.249.249">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=62.175.249.249">WhoIS IP</a>][<a href="http://62.175.249.249/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.11 [en]|<br>
+vREFER|<a href="http://www.intocasinopoker.com/www-poker-ducks-com.html" target=_blank>http://www.intocasinopoker.com/www-poker-ducks-com.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.intocasinopoker.com/www-poker-ducks-com.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.intocasinopoker.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.intocasinopoker.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-09 04:41:45: <br>
+vIPADD|216.145.17.190| [<a href="/adm.php?action=banip&ip=216.145.17.190">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=216.145.17.190">WhoIS IP</a>][<a href="http://216.145.17.190/" target=_blank>Test Web Server</a>]<br>vAGENT|SurveyBot/2.3 (Whois Source)|<br>
+vREFER|<a href="http://whois.domaintools.com/williamdelahoussaye.com" target=_blank>http://whois.domaintools.com/williamdelahoussaye.com</a>|<br>[<a href="/adm.php?action=banref&ref=http://whois.domaintools.com/williamdelahoussaye.com">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://whois.domaintools.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=whois.domaintools.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-09 08:38:49: <br>
+vIPADD|121.9.221.189| [<a href="/adm.php?action=banip&ip=121.9.221.189">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=121.9.221.189">WhoIS IP</a>][<a href="http://121.9.221.189/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Crazy Browser 1.x.x)|<br>
+vREFER|<a href="http://www.intocasinopoker.com/www-landmarkpoker-net.html" target=_blank>http://www.intocasinopoker.com/www-landmarkpoker-net.html</a>|<br>[<a href="/adm.php?action=banref&ref=http://www.intocasinopoker.com/www-landmarkpoker-net.html">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://www.intocasinopoker.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=www.intocasinopoker.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-09 12:58:56: SEARCH: p=Karl+Urban</p>
+<p>2009-07-09 12:59:05: SEARCH: p=Karl+Urban</p>
+<p>2009-07-09 15:33:31: ***********************> Will logged in!</p>
+<p>2009-07-09 16:03:18: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-09 16:03:18: ***********************> Will logged in!</p>
+<p>2009-07-09 16:23:27: <br>
+vIPADD|68.229.147.188| [<a href="/adm.php?action=banip&ip=68.229.147.188">Ban this IP</a>][<a href="/adm.php?action=nqt&queryType=arin&target=68.229.147.188">WhoIS IP</a>][<a href="http://68.229.147.188/" target=_blank>Test Web Server</a>]<br>vAGENT|Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1) Gecko/20090624 Firefox/3.5|<br>
+vREFER|<a href="http://defectiveminds.com/" target=_blank>http://defectiveminds.com/</a>|<br>[<a href="/adm.php?action=banref&ref=http://defectiveminds.com/">Ban this Referral</a>][<a href="/adm.php?action=bandomain&domain=http://defectiveminds.com/">Ban this Domain</a>][<a href="/adm.php?action=nqt&queryType=wwwhois&target=defectiveminds.com">WhoIS Domain</a>]<br>
+ </p>
+<p>2009-07-09 16:23:27: ***********************> Will logged in!</p>

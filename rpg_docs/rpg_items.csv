@@ -1,0 +1,126 @@
+"name","id","damage","damage_high","absorb","absorb_high","durability","durability_max","str_mod","agl_mod","pow_mod","int_mod","def_mod","hp_mod","wear_slot","image","description","action","charges","charges_max","useable","unique","sell_value","required_level","quest"
+"Onyx Helmet","1","0","0","10","12","60","60","0","0","2","0","0","0","item_head","item_head.gif","This helmet is imbued with an Onyx coating and gives the wearer +2 power.","0","0","0","0",,".20","2",
+"Headband of the Owl","2","0","0","5","5","10","10","0","0","0","4","0","0","item_head","item_head.gif","Headband that has a trendy Owl logo imprinted on it. This thing gives off +4 Intelligence to the wearer.","0","0","0","0","0",".25","3",
+"Machine Gun of Disgruntledness","3","10","15","0","0","50","50","0","0","-2","0","0","0","item_weapon1","item_weapon.gif","Plows through targets.  Especially good for bosses.","0","0","0","0","0",".42","4",
+"Retard Ring","4","0","0","0","0","0","0","0","0","0","-2","2","0","item_hands","item_ring.gif","Makes the wearer a little bit dull, but also increases defenses.","0","0","0","0","0","1.30","8",
+"Butthuggers","5","0","0","10","10","50","50","0","-2","0","0","4","0","item_legs","item_legs.gif","Extremely tight pants. They make moving difficult.","0","0","0","0","0",".05","1",
+"Mysterious Device","6","0","0","0","0","0","0","0","0","0","0","0","0",,"item_mystery.gif","No one knows what this thing does and you are not completely sure either. It has a large red button on the top and a label that reads ""Do not press"".","2","5","5","1",,".40","1",
+"Power Rectangle","7","0","0","0","0","0","0","0","0","0","0","0","0",,"item_power_rectangle.gif","It is a rectangle and it seems to radiate energy.","3","1","1","1","0",".05","1",
+"Guts","8","0","0","0","0","0","0","0","0","0","0","0","0",,"item_ratguts.gif","The brutally crushed remains of something.","0","0","0","0",,".02","1",
+"Eyeball","9","0","0","0","0","0","0","0","0","0","0","0","0",,"item_rateyeball.gif","An eyeball that has been violently dislodged from it\'s socket. (Used in recipies)","10","0","0","0","0",".03","1",
+"Empty Bottle","10","0","0","0","0","0","0","0","0","0","0","0","0",,"item_emptybottle.gif","It\'s a bottle... with nothing in it.","10","0","0","0","0",".02","1",
+"Upside Down Heart","11","0","0","0","0","0","0","0","0","0","0","0","5",,"item_upsidedownheart.gif","It's an upside down heart. It restores 5 hit points if used.","1","1","1","1",,".05","1",
+"Rat Killin' Stick","12","2","4","0","0","0","0","0","0","0","0","0","0","item_weapon1","item_ratkillinstick.gif","This stick looks like it might be a good weapon. A good weapon against rats.","0","0","0","0",,".01","1",
+"Fingernail","13","0","0","0","0","0","0","0","0","0","0","0","0",,"item_fingernail.gif","It is a fingernail. It probably got knocked loose in a fight and you just happened to pick it up.","0","0","0","0",,".02","1",
+"Ear","14","0","0","0","0","0","0","0","0","0","0","0","0",,"item_ear.gif","This is an ear. Someone or... some ""thing""... can't hear anymore.","0","0","0","0",,".01","1",
+"Hair","15","0","0","0","0","0","0","0","0","0","0","0","0",,"item_hair.gif","A little lock of hair. It has blood on it.","0","0","0","0",,".01","1",
+"Leather Gloves","16","0","0","0","0","0","0","0","0","0","0","1","0","item_hands","item_glove.gif","This is a pair of leather gloves.","0","0","0","0",,".05","1",
+"Knit Socks","17","0","0","0","0","0","0","0","0","0","0","1","0","item_feet","item_socks.gif","Put them on your feet and stay warm.","0","0","0","0",,".10","1",
+"Purple Shirt","18","0","0","0","0","0","0","0","0","0","0","2","0","item_chest","item_shirt.gif","This is a finely crafted purple shirt.","0","0","0","0",,".30","1",
+"Cotton Armbands","19","0","0","0","0","0","0","2","0","0","0","1","0","item_arms","item_armbands.gif","They look like the would fit pretty snuggly.","0","0","0","0","0",".05","1",
+"Kevlar Chest","20","0","0","12","12","0","0","0","0","0","0","12","0","item_chest","item_shirt_7.gif","A chest piece made of kevlar.","0","0","0","0","0","1.20","6",
+"Blue Mask","21","0","0","1","2","0","0","0","0","0","0","1","0","item_head","item_blue_mask.gif","A generic blue mask, used to hide your identity and protect your eyes from dirt and stuff. ","0","0","0","0","0",".25","1",
+"Ray Gun","22","13","19","0","0","0","0","0","0","0","1","0","0","item_weapon1","item_raygun.gif","A gun designed by a guy named Ray. Oh, it also shoots beams of focused energy. ","0","0","0","0","0",".55","5",
+"Knife","23","2","5","0","0","0","0","0","0","0","0","0","0","item_weapon1","item_knife.gif","Just a plain ol\' knife. Used for stabbin and cuttin steaks. ","0","0","0","0","0",".10","1",
+"Banana","24","0","0","0","0","0","0","0","0","0","0","0","0",,"item_bannana.gif","For some reason, every time you look at this, you think it\'s peanut butter jelly time. ","39","1","1","1","0","1.25","14",
+"Cash Generator","69","0","0","0","0","0","0","0","0","0","0","0","0",,"item_stopwatch.gif","This is a test item to see if cash generation actions work.","14","1","1","1","0","5.50","1","no"
+"Blue Cape","25","0","0","1","1","0","0","0","0","0","0","1","0","item_back","item_blue_cape.gif","Generic blue cape. Keeps your back warm and looks cool. ","0","0","0","0","0",".14","1",
+"Sharp Dagger","26","12","19","1","1","0","0","0","0","0","5","0","0","item_weapon1","item_dagger.gif","The blade on this dagger is very sharp. Watch out! It also makes you sharper.","0","0","0","0","0",".75","6",
+"Gorgon's Stick","27","82","102","1","1","0","0","23","0","0","0","0","0","item_weapon1","item_ratkillinstick.gif","This is the very stick used by Gorgon.","0","0","0","0","0","15.50","19",
+"Ring of Hate","28","0","0","0","0","0","0","-2","0","15","0","0","0","item_hands","item_ring.gif","A ring that has an aura that makes you hate it. Yet you love it at the same time. You want it. You want to wear it. But you hate it.","0","0","0","0","0",".04","5",
+"Adrenaline","29","0","0","0","0","0","0","0","0","0","0","0","0",,"item_hypo.gif","It\'s a hypodermic needle with some adrenaline in it.","5","0","0","1","0",".05","3",
+"Vodka","30","0","0","0","0","0","0","0","0","0","0","0","0",,"item_emptybottle.gif","A bottle of fine vodka.","40","0","0","1","0",".10","4",
+"Huntin' Knife","31","5","9","1","1","0","0","2","0","0","0","0","0","item_weapon1","item_knife2.gif","This knife is kinda big. It\'s got serrated edges and it looks like it might be good for huntin\'
+","0","0","0","0","0",".20","2",
+"Floppy Disc","32","0","0","0","0","0","0","0","0","0","0","0","0",,"item_disk.gif","A floppy disc. You might be able to use this with a computer somehow.","0","0","0","0","0",".10","1",
+"Parcel","33","0","0","0","0","0","0","0","0","0","0","0","0",,"item_env.gif","Someone\'s mail. I bet you\'re wondering what\'s inside.","17","1","0","1","0",".02","1",
+"Orb of Power","34","0","0","0","0","0","0","0","0","0","0","0","0",,"item_orb2.gif","A shiny, black, round orb that screams \""I will restore 15 power\"".","7","0","0","1","0",".20","5",
+"Coffee","35","0","0","0","0","0","0","0","0","0","0","0","0",,"item_coffee_cup.gif","Coffee... Mmmm (Developer\'s Choice)","8","1","1","1","0","87431.42","1",
+"Kid Beatin' Stick","36","11","16","0","0","0","0","2","0","0","0","0","0","item_weapon1","item_ratkillinstick.gif","This is a big stick. You could probably shoo off lots of kids with this thing.","0","0","0","0","0",".48","4",
+"Beretta","37","16","22","0","0","0","0","2","0","0","0","0","0","item_weapon1","item_beretta.gif",,"0","0","0","0","0",".80","6","no"
+"Gorgon\'s Fingernail","38","0","0","0","0","0","0","0","0","0","0","0","0",,"item_fingernail.gif","A fingernail. Not just any fingernail though, it\\\'s Gorgon\\\'s fingernail.","0","0","0","0","0","0","1","yes"
+"Lionheart Gloves","39","0","0","0","0","0","0","4","4","0","0","5","0","item_hands","item_glove.gif","Some gloves that look pretty cool and stuff.","0","0","0","0","0",".80","10","no"
+"Brass Knuckles","40","12","18","0","0","0","0","0","0","0","0","0","0","item_weapon1","item_brassknuckles.gif","Some brass knuckles.","0","0","0","0","0",".60","5","no"
+"Robot Brain","41","0","0","0","0","0","0","0","0","0","0","0","0",,"item_thingy.gif","A brain of a robot.","10","0","0","0","0",".40","1","no"
+"Ball Bearing","42","0","0","0","0","0","0","0","0","0","0","0","0",,"item_orb2.gif","It\'s a ball bearing.","10","0","0","0","0",".02","1","no"
+"Robot Arm","43","0","0","0","0","0","0","0","0","0","0","0","0",,"item_robotarm.gif","An arm from a robot.","10","0","0","0","0",".60","1","no"
+"Interdimensional Pear","44","0","0","0","0","0","0","0","0","0","0","0","0",,"item_pear.gif","It\'s a pear, except there seems to be something interdimensional about it.","27","1","1","1","0",".12","6","no"
+"Intergalactic Calculator","45","0","0","0","0","0","0","0","0","0","0","0","0",,"item_calc.gif","It is a calculator that exhibits space like qualities. Like its been in space or something.","0","0","0","0","0","1.45","1","no"
+"Alien Testicle","46","0","0","0","0","0","0","0","0","0","0","0","0",,"item_orb.gif","A single alien testicle. ","10","0","0","0","0","1.43","1","no"
+"Floppy Disk","47","0","0","0","0","0","0","0","0","0","0","0","0",,"item_disk.gif","It is a floppy disk. Probably has some old data on it.","0","0","0","0","0",".25","1","no"
+"Little Dagger","48","3","7","0","0","0","0","0","0","0","0","0","0","item_weapon1","item_dagger.gif","It is a little dagger. Not too big.","0","0","0","0","0",".25","2","no"
+"Damaged sales invoice","49","0","0","0","0","0","0","0","0","0","0","0","0",,"item_printout.gif","It\'s a sales invoice. You can\'t read it though because it is damaged beyond readability. If only you had a sales invoice repair kit.","0","0","0","0","0",".23","1","no"
+"Sales invoice repair kit","50","0","0","0","0","0","0","0","0","0","0","0","0",,"item_case.gif","This is used to repair damaged sales invoices. Model SIR-K 1K","0","0","0","0","0","24.95","1","no"
+"AK-47","51","18","25","0","0","0","0","3","0","0","0","0","0","item_weapon1","item_ak47.gif","Avtomat Kalashnikova 47. a selective fire, gas operated 7.62mm assault rifle developed in the Soviet Union by Mikhail Kalashnikov.","0","0","0","0","0","1.16","7","no"
+"Apple","52","0","0","0","0","0","0","0","0","0","0","0","0",,"item_apple.gif","An apple.","9","1","0","1","0",".05","2","no"
+"Coffee Machine","53","0","0","0","0","0","0","0","0","0","0","0","0",,"item_coffee.gif","Makes coffee i guess.","18","1","1","1","0","436431.53","1","no"
+"Base seed","54","0","0","0","0","0","0","0","0","0","0","0","0",,"item_bean.gif","This is a base seed. It might grow into a base someday.","19","1","1","1","0","5","1","no"
+"Taser","55","21","26","0","0","0","0","0","0","0","0","0","0","item_weapon1","item_taser.gif","This device shoots electrical pulses into the victim.","0","1","1","0","0","1.23","7","no"
+"Snug Denim Jeans","56","0","0","0","0","0","0","0","0","0","0","14","0","item_legs","item_jeans.gif","Snug fitting jeans. They are kind of stylish too.","0","1","1","0","0",".23","4","no"
+"Cordouroy Pants","57","0","0","0","0","0","0","0","0","0","0","8","0","item_legs","item_cordouroy.gif","They make a zipping noise as you walk. ","0","1","1","0","0",".15","2","no"
+"Green Jeans","58","0","0","0","0","0","0","0","0","0","0","19","0","item_legs","item_greenjeans.gif","Faded green jeans. They are cool though.","0","1","1","0","0",".43","6","no"
+"Construction Hat","59","0","0","0","0","0","0","0","0","0","0","3","0","item_head","item_hardhat.gif","Great defense for the noob types.","0","1","1","0","0",".45","4","no"
+"AP Ade","60","0","0","0","0","0","0","0","0","0","0","0","0",,"item_vodka.gif","Mmmm delicious AP Ade... Oh yeah!","12","1","1","1","0","2.00","1","no"
+"Base Mailbox Kit","68","0","0","0","0","0","0","0","0","0","0","0","0",,"item_mailbox.gif","Add a mailbox to your base.","26","1","1","1","0","6","1","no"
+"AP Ade Extreme","61","0","0","0","0","0","0","0","0","0","0","0","0",,"item_extreme_bev.gif","OMG Wow!","20","1","1","1","0","32441.23","1","no"
+"AP Ade Extreme Generator","62","0","0","0","0","0","0","0","0","0","0","0","0",,"item_gameboy.gif","Makes a batch of AP Ade Extreme.","21","1","1","1","0","93562","1","no"
+"Ring of Strength","63","0","0","0","0","0","0","3","0","0","0","0","0","item_hands","item_ring2.gif","This ring looks like it might make you stronger.","0","1","1","0","0",".24","5","no"
+"Base destruction kit","64","0","0","0","0","0","0","0","0","0","0","0","0",,"item_crate.gif","This crate contains a portable base destruction kit. Use at your own risk.","22","1","1","1","0","25","1","no"
+"Base Bank Upgrade Kit","65","0","0","0","0","0","0","0","0","0","0","0","0",,"item_safe.gif","Upgrades your base to include a personal bank.","23","1","1","1","0","35","1","no"
+"Base Bed Assembly Starter Kit","66","0","0","0","0","0","0","0","0","0","0","0","0",,"item_bed.gif","One size fits all!","24","1","1","1","0","2","1","no"
+"Base Sidekick Generator","67","0","0","0","0","0","0","0","0","0","0","0","0",,"item_dome.gif","Put this in your base, plug it in and wait for your sidekick to generate.","25","1","1","1","0","32","1","no"
+"Computer","70","0","0","0","0","0","0","0","0","0","0","0","0",,"item_laptop.gif","The latest in computing technology.","0","1","1","0","0","6","1","no"
+"Compact Disc","71","0","0","0","0","0","0","0","0","0","0","0","0",,"item_cd.gif","A CD with data on it","0","1","1","0","0",".32","1","no"
+"Video Card","72","0","0","0","0","0","0","0","0","0","0","0","0",,"item_cpu_card.gif","A 3D video card","0","1","1","0","0","2","1","no"
+"Yellow Cake","73","0","0","0","0","0","0","0","0","0","0","0","0",,"item_twinkie.gif","Looks delicious","41","1","1","1","0",".35","8","no"
+"Rambo Knife","74","22","29","0","0","0","0","4","0","0","0","0","0","item_weapon1","item_knife.gif","Grrrrrrrrrrrrrrr!","0","1","1","0","0","1.35","8","no"
+"Back Scratcher","75","8","12","0","0","0","0","0","0","0","0","0","0","item_weapon1","item_robotarm.gif","Great for killing pests... Or scratching your back","0","1","1","0","0",".34","3","no"
+"TP","76","25","32","0","0","0","0","0","0","0","0","0","0","item_weapon1","item_toiletpaper.gif","Wipe your enemies off the ground","0","1","1","0","0","1.45","9","no"
+"Banana Bomb","77","29","35","0","0","0","0","5","0","0","0","0","0","item_weapon1","item_bannana.gif","Kaboom","0","1","1","0","0","1.58","10","no"
+"Sniper Rifle","78","24","28","0","0","0","0","4","0","0","0","0","0","item_weapon1","item_sniperrifle.gif","Take a deep breath then exhale... Now shoot","0","1","1","0","0","1.45","9","no"
+"Smoke Grenade","79","24","30","0","0","0","0","0","0","0","0","0","0","item_weapon1","item_smokegrenade.gif","Blind your enemies","0","1","1","0","0","1.42","8","no"
+"Oversized Green Jeans","80","0","0","0","0","0","0","0","0","0","0","24","0","item_legs","item_biggreenjeans.gif","They fit!","0","1","1","0","0",".82","8","no"
+"Buttsnugglers","81","0","0","0","0","0","0","0","-3","4","0","28","0","item_legs","item_legs.gif","These things fit like a dream. If your dream is to have really tight pants.","0","1","1","0","0",".94","10","no"
+"Foreign Army Device","82","32","36","0","0","0","0","6","6","0","0","0","0","item_weapon1","item_sak.gif","FAD... There is something in there for every occasion","0","1","1","0","0","1.63","10","no"
+"Orb of Destruction","83","6","11","0","0","0","0","0","0","0","2","0","0","item_weapon1","item_orb2.gif","Evil looking orb... It hurts","0","1","1","0","0",".38","3","no"
+"Base Shield Installer","84","0","0","0","0","0","0","0","0","0","0","0","0",,"item_orb.gif","Installs a shield (class 1) at your base. Requires base tower foundation","28","1","1","1","0","45","1","no"
+"Base Tower Foundation","85","0","0","0","0","0","0","0","0","0","0","0","0",,"item_tower_foundation.gif","Use this to add a tower to your base. You can have up to 4 towers.","29","1","1","1","0","250","1","no"
+"Base Tower Gun Housing Assembly","86","0","0","0","0","0","0","0","0","0","0","0","0",,"item_tower_guns_1.gif","Add guns (class 1) to one of your base towers. Requires base tower foundation","30","1","1","0","0","350","1","no"
+"Leather Boots","87","0","0","0","0","0","0","0","0","0","0","2","0","item_feet","item_boots_1.gif","Leather boots","0","1","1","0","0",".15","2","no"
+"Scuba Feet","88","0","0","0","0","0","0","0","0","0","0","4","0","item_feet","item_boots_8.gif","All you need now is a snorkle","0","1","1","0","0",".35","3","no"
+"Steel Toed Boots","89","0","0","0","0","0","0","0","0","0","0","6","0","item_feet","item_boots_2.gif","You need to break these in before they become comfortable","0","1","1","0","0",".45","4","no"
+"Sneakers","90","0","0","0","0","0","0","0","2","0","0","8","0","item_feet","item_boots_10.gif","Plain ol sneakers","0","1","1","0","0",".65","6","no"
+"Dark Slippers","91","0","0","0","0","0","0","0","0","0","0","7","0","item_feet","item_boots_9.gif","Dark as the night...","0","1","1","0","0",".53","5","no"
+"Snow Boots","92","0","0","0","0","0","0","0","0","0","0","10","0","item_feet","item_boots_4.gif","These boots are warm","0","1","1","0","0",".76","7","no"
+"Purple High Heels","93","0","0","0","0","0","0","0","-2","0","0","12","0","item_feet","item_boots_6.gif","For the sophisticated hero","0","1","1","0","0",".82","8","no"
+"Red Sneakers","94","0","0","0","0","0","0","0","0","0","0","13","0","item_feet","item_boots_5.gif","Great for playing basketball... Or covering up feet for battle","0","1","1","0","0",".95","9","no"
+"Viking Boots","95","0","0","0","0","0","0","5","0","0","0","15","0","item_feet","item_boots_3.gif","Not quite as good as pirate boots","0","1","1","0","0","1.03","10","no"
+"Rock T-Shirt","96","0","0","0","0","0","0","0","0","0","0","7","0","item_chest","item_shirt_4.gif","Someone\'s favorite band is printed on the front","0","1","1","0","0",".73","3","no"
+"Wife Beater","97","0","0","0","0","0","0","0","0","0","0","18","0","item_chest","item_shirt_6.gif","Yippie Ka Yay","0","1","1","0","0","2.65","9","no"
+"Button Down Leisure Top","98","0","0","0","0","0","0","0","0","0","0","21","0","item_chest","item_shirt_5.gif","Lightly colored for maximum comfort","0","1","1","0","0","2.75","10","no"
+"Blue T-Shirt","99","0","0","0","0","0","0","0","0","0","0","4","0","item_chest","item_shirt_2.gif","Plain old blue t-shirt","0","1","1","0","0",".52","2","no"
+"Long Sleeved Green Shirt","100","0","0","0","0","0","0","0","0","0","0","9","0","item_chest","item_shirt_3.gif","100% Cotton","0","1","1","0","0",".86","4","no"
+"Turtle Neck","101","0","0","0","0","0","0","0","0","0","3","11","0","item_chest","item_shirt_8.gif","Warms the neck","0","1","1","0","0",".98","5","no"
+"Red Shirt","102","0","0","0","0","0","0","0","0","0","0","14","0","item_chest","item_shirt_9.gif","Red Shirt","0","1","1","0","0","1.58","7","no"
+"Loafers","103","0","0","0","0","0","0","0","0","0","0","17","0","item_feet","item_boots_7.gif","Loafers","0","1","1","0","0","1.12","11","no"
+"Sweater","104","0","0","0","0","0","0","0","0","0","0","16","0","item_chest","item_shirt_10.gif","Sweater","0","1","1","0","0","1.86","8","no"
+"Flesh Colored Swimsuit","105","0","0","0","0","0","0","0","0","0","0","12","0","item_legs","item_shorts_1.gif","You\'ll fool them","0","1","1","0","0",".20","3","no"
+"Army Boots","106","0","0","0","0","0","0","4","0","0","0","20","0","item_feet","item_boots_2.gif","An army boot of one","0","1","1","0","0","1.42","12","no"
+"Die Easy Shirt","107","0","0","0","0","0","0","0","0","0","0","24","0","item_chest","item_shirt_6.gif","Yippie Ka Yay","0","1","1","0","0","2.95","11","no"
+"Robo Arms","108","0","0","0","0","0","0","0","0","0","0","18","0","item_hands","item_robotarm.gif","Roll out","0","1","1","0","0","1.54","10","no"
+"Bird Eye","109","0","0","0","0","0","0","0","0","0","0","0","0",,"item_eyeb.gif","It's the eye of a bird.","10","1","1","0","0",".15","1","no"
+"Giblets","110","0","0","0","0","0","0","0","0","0","0","0","0",,"item_ratguts.gif","Some bird giblets","10","1","1","0","0",".12","1","no"
+"Talons","111","0","0","0","0","0","0","0","0","0","0","0","0",,"item_brassknuckles.gif","Bird talons","0","1","1","0","0",".02","1","no"
+"Glazed Donut","112","0","0","0","0","0","0","0","0","0","0","0","0",,"item_donut.gif","This is different than a glayzed dough nut","37","1","1","1","0",".45","10","no"
+"Glayzed Dough Nut","113","0","0","0","0","0","0","0","0","0","0","0","0",,"item_donut.gif","Looks incredibly like a glazed donut","38","1","1","1","0",".85","12","no"
+"Egg Noodles","114","0","0","0","0","0","0","0","0","0","0","0","0",,"item_pasta.gif","Some delicious chinese egg noodles","42","1","1","1","0","0","16","no"
+"Bifocals","115","0","0","0","0","0","0","0","6","0","0","4","0","item_head","item_glasses.gif","Makes things easier to see... And hit!","0","1","1","0","0",".35","5","no"
+"Red & Green Cape","116","0","0","0","0","0","0","0","0","0","0","3","0","item_back","item_redgreencape.gif","Cool looking red and green cape","0","1","1","0","0",".25","2","no"
+"Cape of the Flame","117","0","0","0","0","0","0","0","0","0","0","6","0","item_back","item_yellowpurplecape.gif","It bears an insignia of the Flame","0","1","1","0","0",".36","3","no"
+"Plain ol' Backpack","118","0","0","0","0","0","0","0","0","0","0","8","0","item_back","item_backpack.gif","New and improved defensive properties","0","1","1","0","0",".47","4","no"
+"Sunfire cape","121","0","0","0","0","0","0","0","0","0","0","18","0","item_back","item_orangecape.gif","This is hot!","0","1","1","0","0",".91","7","no"
+"Crusader's Cape","119","0","0","0","0","0","0","5","0","0","0","10","0","item_back","item_redcape.gif","It\'s super!","0","1","1","0","0",".58","5","no"
+"The Dark Avenger","120","0","0","0","0","0","0","0","6","0","0","14","0","item_back","item_blackcape.gif","Sinister yet heroic","0","1","1","0","0",".79","6","no"
+"Helihat","122","0","0","0","0","0","0","0","0","0","0","14","0","item_head","item_helihat.gif","Helps with stabilization","0","1","1","0","0",".87","9","no"
+"Viking Helmet","123","0","0","0","0","0","0","0","0","0","0","8","0","item_head","item_vikinghat.gif","It looks like it can double as a bed pan","0","1","1","0","0",".87","6","no"
+"Deadly Key","124","41","46","0","0","0","0","4","0","0","0","0","0","item_weapon1","item_key.gif","Put it in between your fingers. It\'s deadly. It can also open your apartment door.","0","1","1","0","0","1.92","12","no"
