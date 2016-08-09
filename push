@@ -9,7 +9,8 @@ va=`expr $va + 1`;
 echo $va > build.dat;
 echo "RPG $ver BUILD $va";
 echo "Dumping database structure..."
-mv sql/rpg.structure.sql sql/$(date).rpg.structure.sql
+dt=$(date +%s)
+mv sql/rpg.structure.sql sql/$dt.rpg.structure.sql
 mysqldump -d -u backup rpg > sql/rpg.structure.sql
 git add *
 git commit -a -m "update $1"
