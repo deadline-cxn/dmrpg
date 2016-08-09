@@ -1,4 +1,4 @@
-<?
+<?php
 /////////////////////////////////////////////////////////////////////////////////////////
 // Defective Minds RPG (c) 2009 Seth Parson and Will Delahoussaye
 // http://www.defectiveminds.com/
@@ -24,4 +24,4 @@ $day_name[4]="Thu";
 $day_name[5]="Fri";
 $day_name[6]="Sat";
 $day_name[7]="Sun";
-?>
+

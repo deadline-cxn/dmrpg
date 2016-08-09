@@ -1,4 +1,4 @@
-<?
+<?php
 
 include("rpg_header.php");
 

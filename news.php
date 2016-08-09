@@ -4,7 +4,7 @@
 
 if(!function_exists('keywords')) include("rpg_header.php");
 
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']); 
+$data=getuserdata($_SESSION['valid_user']); 
 if(empty($headline)) $headline = $_REQUEST['title'];
 
 function put_news_image($fname)
@@ -64,14 +64,14 @@ if($give_file=="news_sup")
 
 if(!empty($bot))
 {
-    if(empty($HTTP_SESSION_VARS['bot']))
+    if(empty($_SESSION['bot']))
     {
-        $HTTP_SESSION_VARS['bot']=$bot;
+        $_SESSION['bot']=$bot;
     }
 }
 else
 {
-    $bot=$HTTP_SESSION_VARS['bot'];
+    $bot=$_SESSION['bot'];
 }
 
 function updatenews($nid)

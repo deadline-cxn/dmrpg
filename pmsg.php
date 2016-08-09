@@ -1,7 +1,7 @@
-<?
+<?php
 $title="Private Messages";
 include("rpg_header.php");
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+$data=getuserdata($_SESSION['valid_user']);
 
 if(empty($to)) if(!empty($sto)) $to=$sto;
 if(empty($subject)) if(!empty($sj)) $subject=$sj;

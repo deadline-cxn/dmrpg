@@ -1,7 +1,7 @@
 <?php
 include("dm_config.php");
 
-//if($HTTP_SESSION_VARS["logged_in"]!="true") {  exit(); }
+//if($_SESSION["logged_in"]!="true") {  exit(); }
 /*
 http://www.flashandmath.com/basic/
 http://www.flashandmath.com/basic/randompic/randompic2.html
@@ -14,7 +14,7 @@ http://www.actionscript.org/resources/categories/Tutorials/Flash/
 
 */
 
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+$data=getuserdata($_SESSION['valid_user']);
 
 dm_log("TESTING[$PHP_SELF]:::::::::::::::::--- $data->id $data->name $action");
 
@@ -68,7 +68,7 @@ if($action=="create")
     rpg_createchar($rpg_name,$class);
     rpg_setvar("rpg","yes");
     rpg_setvar("gender",$gender);
-    $data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+    $data=getuserdata($_SESSION['valid_user']);
     $action="completed";
     $returnVars = array();
     $returnVars['inname']= $data->name;

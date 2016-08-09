@@ -1,6 +1,6 @@
-<?
+<?php
 include("rpg_header.php");
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+$data=getuserdata($_SESSION['valid_user']);
 
 function linkbin_showaddform()
 {

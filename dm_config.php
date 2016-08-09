@@ -1,13 +1,11 @@
-<?
+<?php
 /////////////////////////////////////////////////////////////////////////////////////////
 // Defective Minds RPG (c) 2009 Seth Parson and Will Delahoussaye
 // http://www.defectiveminds.com/
 /////////////////////////////////////////////////////////////////////////////////////////
 
 $dm_version="v4.0.2 (beta)";
-
 $serverName = getenv("HTTP_HOST");
-
 @session_name('dm_rpg');
 //@session_cache_limiter('private');
 @session_cache_expire(99999);
@@ -16,9 +14,8 @@ $serverName = getenv("HTTP_HOST");
 $pwd=exec("hostname");
 //echo $pwd;
 
-if($pwd=="844cgwhp21c12au")
-{
-//  echo "[$serverName]";
+if($pwd=="844cgwhp21c12au") {
+  //echo "[$serverName]";
     switch($serverName)
     {
       case "127.0.0.1":
@@ -33,27 +30,13 @@ if($pwd=="844cgwhp21c12au")
 }
 
 
-if( ($pwd=="wenix") ||
-    ($pwd=="IckleAzure") ||
-    ($pwd=="Michael-PC") ||
-    ($pwd=="844cgwhp21c12au") )
-{
-	$GLOBALS["authdbname"]    = "dminds1_rpg";
-	$GLOBALS["authdbaddress"] = "localhost";
-	$GLOBALS["locate"]        = "http://$pwd/defectiveminds_com";
-	$GLOBALS["local_path"]    = "C:/xampp/htdocs/defectiveminds_com";
-	$GLOBALS["authdbuser"]    = "root";
-	$GLOBALS["authdbpass"]    = "";
-}
-else
-{
-    $GLOBALS["authdbname"]    = "dminds1_rpg";
-    $GLOBALS["authdbaddress"] = "localhost";
-    $GLOBALS["locate"]        = "http://www.defectiveminds.com/rfs/dmrpg";
-    $GLOBALS["local_path"]    = "/home/dminds1/public_html/rfs/dmrpg/";
-    $GLOBALS["authdbuser"]    = "dminds1_rpg";
-    $GLOBALS["authdbpass"]    = ",r1my?tc~qG%";
-}
+$GLOBALS["authdbname"]    = "rpg";
+$GLOBALS["authdbaddress"] = "localhost";
+$GLOBALS["locate"]        = "http://rpg.sethcoder.com";
+$GLOBALS["local_path"]    = "/var/www/rpg.sethcoder.com/html";
+$GLOBALS["log_path"]      = "/var/www/rpg.sethcoder.com/logs";
+$GLOBALS["authdbuser"]    = "rpg";
+$GLOBALS["authdbpass"]    = "!QAZ2wsx";
 
 setlocale(LC_MONETARY, 'en_US');
 
@@ -64,7 +47,7 @@ include("rpg_funcs.php");
 
 $counttoday=0;
 $countit=dm_count();
-$logged_in=$HTTP_SESSION_VARS["logged_in"];
+$logged_in=$_SESSION["logged_in"];
 
 
 
@@ -260,7 +243,7 @@ function gotopage($outpage)
 {
 	$locate=$GLOBALS['locate'];
     //$outpage=str_replace("/2008","",$outpage); // quick hack to remove crap
-    
+
 	$loc="$locate/$outpage";
     $loc=str_replace("://",":///",$loc);
     $loc=str_replace("//","/",$loc);
@@ -501,27 +484,27 @@ function dm_count()
 
         $refer_ban=str_replace("&","%26",$refer);
         $refer_ban=str_replace("?","%3F",$refer_ban);
-        
-        $countip_ban=$countip;        
+
+        $countip_ban=$countip;
         $domain_ban=dm_getdomain($refer_ban);
       	$a=explode("/",$domain_ban);
         $domain_who=$a[2];
 
         $refer_link=str_replace("%20"," ",$refer);
         $refer_link=str_replace("%2F","/",$refer_link);
-        $refer_link=str_replace("%2f","/",$refer_link);       
+        $refer_link=str_replace("%2f","/",$refer_link);
         $refer_link=str_replace("%3D","=",$refer_link);
         $refer_link=str_replace("%3d","=",$refer_link);
         $refer_link=str_replace("?","<br>",$refer_link);
         $refer_link=str_replace("%3F","<br>",$refer_link);
-        $refer_link=str_replace("%3f","<br>",$refer_link);        
+        $refer_link=str_replace("%3f","<br>",$refer_link);
         $refer_link=str_replace("%3A",":",$refer_link);
         $refer_link=str_replace("%3a",":",$refer_link);
         $refer_link=str_replace("%2B","+",$refer_link);
         $refer_link=str_replace("%2b","+",$refer_link);
         $refer_link=str_replace("%26","<br>",$refer_link);
         $refer_link=str_replace("&","<br>",$refer_link);
-        
+
         $searched=explode("<br>",$refer_link);
         $nsear=count($searched);
         for($i=0;$i<$nsear;$i++)
@@ -531,7 +514,7 @@ function dm_count()
             {
                 dm_log("SEARCH: ".$searched[$i]);
                 $time=date("Y-m-d H:i:s");
-                dm_query("insert into `searches` (`search`,            `engine`,      `fullsearch`,`time`) 
+                dm_query("insert into `searches` (`search`,            `engine`,      `fullsearch`,`time`)
                                           VALUES ('".$searched[$i]."', '$domain_who', '$refer',  '$time')");
             }
         }
@@ -559,7 +542,7 @@ function dm_count()
             $what.="vREFER|".$refer."|<br>\n ";
         else
             $what.="vREFER|<a href=\"".$refer."\" target=_blank>".$refer_link."</a>|<br>[$banref][$bandomain][$whoisdm]<br>\n ";
-          
+
         if($banned==1)
         {
             $unbanip="<a href=\"$locate/adm.php?action=unbanip&ip=$countip_ban\">UnBan this IP</a>";
@@ -575,7 +558,7 @@ function dm_count()
                 $what.="vREFER|<a href=\"".$refer."\" target=_blank>".$refer_link."</a>|<br>[$unbanref][$unbandomain][$whoisdm]<br>\n ";
             dm_kill($what);
         }
-        
+
 
         $countit++;
         $counttoday++;
@@ -614,7 +597,7 @@ function dm_count()
         {
             $url=$url2['0']."//".$url2['2']."/";
 
-            if($url!="http://www.defectiveminds.com/") 
+            if($url!="http://www.defectiveminds.com/")
             {
                 dm_log($what);
 
@@ -635,13 +618,13 @@ function dm_count()
                 else
                 {
                     $time=date("Y-m-d H:i:s");
-                    dm_query("insert into `link_bin` (`link`, `sname`, `time`, `bumptime`, `referrals`, `clicks`, `referral`, `hidden`, `category`,`reviewed`) 
+                    dm_query("insert into `link_bin` (`link`, `sname`, `time`, `bumptime`, `referrals`, `clicks`, `referral`, `hidden`, `category`,`reviewed`)
                                                values('$url','".$url2['2']."','$time','$time','1','0','yes','1','!!!TEMP!!!','no')");
                 }
             }
         }
-            
-    if($url!="http://www.defectiveminds.com/") 
+
+    if($url!="http://www.defectiveminds.com/")
         if(getenv("REMOTE_ADDR")!=$countip)
             dm_writecount($countit,$countip,$counttoday,$countdate,$countraw);
     return $countit;
@@ -683,16 +666,13 @@ function dm_getrawhits()
     return $cnt[4];
 }
 
-function dm_log($logtext)
-{
-    $local=$GLOBALS['local_path'];
-    $fp2=fopen("$local/log/log.htm","a");
-    if(empty($fp2))
-    {
-        $fp2=fopen("$local/log/log.htm","w");
+function dm_log($logtext) {
+    global $log_path;
+    $fp2=fopen("$log_path/log.htm","a");
+    if(empty($fp2)) {
+        $fp2=fopen("$log_path/log.htm","w");
     }
-    if($fp2)
-    {
+    if($fp2) {
         $logtext="<p>".date("Y-m-d H:i:s").": ".$logtext."</p>\n";
         fputs($fp2,$logtext);
         fclose($fp2);
@@ -808,31 +788,4 @@ function users_logged_details()
     }
     return $user;
 }
-
-
-?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

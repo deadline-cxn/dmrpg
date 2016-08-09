@@ -1,4 +1,4 @@
-<?
+<?php
 /////////////////////////////////////////////////////////////////////////////////////////
 // Defective Minds RPG (c) 2009 Seth Parson and Will Delahoussaye
 // http://www.defectiveminds.com/
@@ -51,6 +51,3 @@ $dm_join_button  = "join.gif";
 
 $dm_banner="dm_banner.gif";
 
-
-
-?>

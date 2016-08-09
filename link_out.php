@@ -1,4 +1,4 @@
-<?
+<?php
 $link_out=$_REQUEST['link'];
 include("dm_config.php");
 $link_domain=dm_getdomain($link_out);

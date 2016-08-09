@@ -1,4 +1,4 @@
-<?
+<?php
 /////////////////////////////////////////////////////////////////////////////////////////
 // Defective Minds RPG (c) 2009 Seth Parson and Will Delahoussaye
 // http://www.defectiveminds.com/
@@ -20,8 +20,7 @@ if(!empty($dm_edge_right))
 else
     $dm_right_code="&nbsp;";
 
-function keywords()
-{
+function keywords() {
 	echo "Defective Minds Role Playing Game RPG Web based ";
 }
 
@@ -106,8 +105,4 @@ echo "</style>\n";
 
 
 echo "<!-- "; keywords(); echo "-->\n";
-
-
-?>
-
 

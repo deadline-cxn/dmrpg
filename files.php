@@ -1,4 +1,4 @@
-<?
+<?php
 
 include("dm_config.php");
 
@@ -36,7 +36,7 @@ if($action=="upload")
 $title="Files > Upload";
 
 include("header.php");
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+$data=getuserdata($_SESSION['valid_user']);
 
 function dm_fileheader()
 {
@@ -180,7 +180,7 @@ if($action=="get_file")
 {
     table_top("Get a file");
     table_middle_start("000000");
-    if($HTTP_SESSION_VARS["logged_in"]=="true")
+    if($_SESSION["logged_in"]=="true")
     {
         $filedata=dm_getfiledata($_REQUEST['id']);
         if(empty($filedata))
@@ -854,4 +854,4 @@ include("footer.php");
 
 
 
-ÿ
+Ã¿

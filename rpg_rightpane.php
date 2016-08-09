@@ -1,22 +1,21 @@
-<?
+<?php
 /////////////////////////////////////////////////////////////////////////////////////////
 // Defective Minds RPG (c) 2009 Seth Parson and Will Delahoussaye
 // http://www.defectiveminds.com/
 /////////////////////////////////////////////////////////////////////////////////////////
 
 include("rpg_header.php");
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+$data=getuserdata($_SESSION['valid_user']);
 
 $action = $_REQUEST['action'];
 $id		= $_REQUEST['id'];
 
-if($HTTP_SESSION_VARS["logged_in"]!="true")
-{
+if($_SESSION["logged_in"]!="true") {
   	rpg_refresh("top","index.php");
     include("rpg_footer.php"); exit();
 }
 
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+$data=getuserdata($_SESSION['valid_user']);
 
 if($data->rpg=="yes")
 {

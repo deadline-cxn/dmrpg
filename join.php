@@ -1,4 +1,4 @@
-<?
+<?php
 /////////////////////////////////////////////////////////////////////////////////////////
 // Defective Minds RPG (c) 2009 Seth Parson and Will Delahoussaye
 // http://www.defectiveminds.com/
@@ -7,7 +7,7 @@
 include("rpg_header.php");
 echo "<img src=images/join.jpg><br>";
 function dm_join_stop($locate,$userid,$password,$email) { joinform($locate,$userid,$password,$email); include("rpg_footer.php"); exit; }
-if($HTTP_SESSION_VARS['logged_in']=="true") { echo "You are already a member... Logout if you want to create a new profile.\n"; include("rpg_footer.php"); exit; }
+if($_SESSION['logged_in']=="true") { echo "You are already a member... Logout if you want to create a new profile.\n"; include("rpg_footer.php"); exit; }
 // connect to user database
 $result = dm_query("select * from users where name = '$userid'");
 if(mysql_num_rows($result) > 0 ){	echo "<h1>Sorry! There is already a user named $userid</h1>\n";	dm_join_stop($locate,$userid,$password,$email); }

@@ -1,7 +1,7 @@
-<?
+<?php
 include("dm_config.php");
 
-//if($HTTP_SESSION_VARS["logged_in"]!="true") {  exit(); }
+//if($_SESSION["logged_in"]!="true") {  exit(); }
 /*
 http://www.flashandmath.com/basic/
 http://www.flashandmath.com/basic/randompic/randompic2.html
@@ -18,7 +18,7 @@ $returnVars['wtf']="wtf"; // dunno why but if this isnt in here the data gets fu
 $returnVars['wtf2']="wtf2"; // dunno why but if this isnt in here the data gets fucked
 $returnVars['action']=$action."_cb";
 
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+$data=getuserdata($_SESSION['valid_user']);
 
 if($action!="chat_update" ) dm_log("TESTING[$PHP_SELF]:IN::::::::::::::--- $data->id $data->name $action");
 
@@ -101,7 +101,7 @@ if($action=="clickedinv")
       $inv=mysql_fetch_object($result);
     }
 
-    $data=getuserdata($HTTP_SESSION_VARS['valid_user']); // get data to obtain most up to date info
+    $data=getuserdata($_SESSION['valid_user']); // get data to obtain most up to date info
 
     // update stats
      while(list ($key, $dat) = each ($data)) // return all the data in $data to the flash - easy
