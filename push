@@ -1,0 +1,18 @@
+#!/bin/bash
+#yes | rm /var/www/modules/core_videos/cache/*.jpg
+#cd tools
+#./cleanthemes.sh
+#cd ..
+ver=$(grep 'v' version | sed 's/[^0-9.]//g')
+va=$(<build.dat);
+va=`expr $va + 1`;
+echo $va > build.dat;
+echo "RPG $ver BUILD $va";
+echo "Dumping database structure..."
+mysqldump -d -u backup rpg > rpg.structure.sql
+git add *
+git commit -a -m "update $1"
+git push origin master
+
+
+

@@ -2258,4 +2258,3 @@ else {
 }
 echo "</td></tr></table>";
 include("rpg_footer.php");
-?>
