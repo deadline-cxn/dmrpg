@@ -10,8 +10,8 @@ echo $va > build.dat;
 echo "RPG $ver BUILD $va";
 echo "Dumping database structure..."
 dt=$(date +%s)
-mysqldump -d -u backup rpg > sql/$dt.rpg.structure.sql
-mysqldump -u backup rpg    > sql/$dt.rpg.full.sql
+mysqldump -d -u backup rpg > ../sql/$dt.rpg.structure.sql
+mysqldump -u backup rpg    > ../sql/$dt.rpg.full.sql
 git add *
 git commit -a -m "update $1"
 git push origin master
