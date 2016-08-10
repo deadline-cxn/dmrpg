@@ -1,7 +1,7 @@
 <?php
 include("dm_config.php");
-//if($HTTP_SESSION_VARS["logged_in"]!="true") {  exit(); }
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+//if($_SESSION["logged_in"]!="true") {  exit(); }
+$data=getuserdata($_SESSION['valid_user']);
 
 if(empty($data->rpg_name)) $data->rpg_name="WTF?";
 

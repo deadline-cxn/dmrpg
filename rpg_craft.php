@@ -5,9 +5,9 @@
 /////////////////////////////////////////////////////////////////////////////////////////
 
 include("rpg_header.php");
-$data=getuserdata($HTTP_SESSION_VARS['valid_user']);
+$data=getuserdata($_SESSION['valid_user']);
 if(empty($id)) $id=$data->id;
-if($HTTP_SESSION_VARS["logged_in"]!="true")
+if($_SESSION["logged_in"]!="true")
 {
   	rpg_refresh("top","index.php");
     include("rpg_footer.php");

@@ -6,7 +6,7 @@
 
 include ("dm_config.php");
 
-$vusr=$HTTP_SESSION_VARS['valid_user'];
+$vusr=$_SESSION['valid_user'];
 $data=getuserdata($vusr);
 usersonline($data->name);
 
