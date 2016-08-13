@@ -1,22 +1,16 @@
 <?php
 /////////////////////////////////////////////////////////////////////////////////////////
-// Defective Minds RPG (c) 2009 Seth Parson and Will Delahoussaye
+// Defective Minds RPG (c) 2016 Seth Parson and Will Delahoussaye
 // http://www.defectiveminds.com/
 /////////////////////////////////////////////////////////////////////////////////////////
-
 include("rpg_header.php");
-
 echo "<html><head><title>Login</title></head><body 
 style='background-color: #f90; color: #000;'><font face=verdana size=1><b>\n";
-       
 echo "<img src=images/dm_left.gif>";
 echo "<img src=images/dm_banner.gif height=135><br>";
 echo "<img src=images/pa.gif><br>";
-
 $action=$_REQUEST['action'];
-
 if(empty($action)) $action="loginform";
-
 function forgotform($locate) {
     echo "<p>You forgot your password!</p>";
     echo "<table border=0 cellspacing=0 cellpadding=0>\n";
@@ -27,7 +21,6 @@ function forgotform($locate) {
     echo "<td><input type=\"submit\" name=\"Get Password\" value=\"Get Password\"></td>\n";
     echo "</form></table>";
 }
-
 function loginform($locate) {
     echo "<p>Login below. If you haven't got an account, you may <a href=join.php>Register</a> now.</p>";
     echo "<form method=post action=\"$locate/login.php\">";
@@ -47,13 +40,11 @@ function loginform($locate) {
     echo "<input type=\"submit\" name=\"Login\" value=\"Login\">\n";
     echo "</form>\n</tr></table>\n";
 }
-
 if($action=="loginform") {
     loginform($locate);
     include("rpg_footer.php");
     exit;
 }
-
 if($action=="logingo") {
     echo "LOGGING IN...";
     $mysql = odb();
@@ -77,7 +68,6 @@ if($action=="logingo") {
       $_SESSION["valid_user"] = "invalid_user";
     }
 }
-
 if($action=="sendpass") {
     if(empty($email)) {
         echo "<p>You must enter a password!</p>\n";
@@ -99,15 +89,12 @@ if($action=="sendpass") {
     include("rpg_footer.php");
     exit;
 }
-
 if($action=="forgot") {
     forgotform($locate);
     include("rpg_footer.php");
     exit;
 }
-
 $hi=$_SESSION["valid_user"];
-
 if(($hi=="invalid_user")||($join=="true")||(empty($hi))) {
     if(($hi=="invalid_user") || (empty($hi))  )
         if($join!="true")

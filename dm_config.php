@@ -190,7 +190,7 @@ function mailgo($email,$message,$subject) {
     $locate  = $GLOBALS['locate'];
     $headers  = "MIME-Version: 1.0\r\n";
     $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
-    $begin =  "<html><head><title>DefectiveMinds.com join</title>\n";
+    $begin =  "<html><head><title>rpg.sethcoder.com join!</title>\n";
     $begin.="
     <style type\"text/css\">
     body, td, p {font-family: verdana,geneva,sans-serif; font-size: 10px; color: #555555}
@@ -203,9 +203,9 @@ function mailgo($email,$message,$subject) {
 	$begin .= "</head></head>\n";
     $begin .= "<body>\n";
     $message  = $begin.$message;
-    $message .= "\n\n<br><br><br><p>Automated message from <a href=http://www.defectiveminds.com>Defective Minds</a> ~ Do not reply! You can change your email settings through your profile on the site.</p>\n";
+    $message .= "\n\n<br><br><br><p>Automated message from <a href=http://rpg.sethcoder.com/>http://rpg.sethcoder.com/</a> ~ Do not reply! You can change your email settings through your profile on the site.</p>\n";
     $message .= "</body></html>\n";
-    return mail( $email, $subject , $message, "From: imacomputa@defectiveminds.com\r\n$headers");
+    return mail( $email, $subject , $message, "From: imacomputa@rpg.sethcoder.com\r\n$headers");
 }
 function generate_password() {
     $i=0; $password=""; srand((double) microtime() * 1000000);
@@ -427,7 +427,7 @@ function dm_count() {
     $url2=explode("/",$refer);
     if($url2['0']=="http:") {
         $url=$url2['0']."//".$url2['2']."/";
-        if($url!="http://www.defectiveminds.com/") {
+        if($url!="http://rpg.sethcoder.com/") {
             dm_log($what);
             if($google)        $url="http://www.google.com/";
            	if($yahoo)         $url="http://www.yahoo.com/";
