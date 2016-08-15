@@ -3,10 +3,10 @@ include("rpg_header.php");
 echo "Weekly maintenance<br>";
 $message  = "Cron Job<br>\n";
 $message .= "That is all, Ima Computa out!\n";
-mailgo("seth@defectiveminds.com",$message,"DeFeCtiVeMinDs.com testing cron jobs");
-mailgo("will@defectiveminds.com",$message,"DeFeCtiVeMinDs.com testing cron jobs");
+mailgo("defectiveseth@gmail.com",$message,"rpg.sethcoder.com testing cron jobs");
+//mailgo("will@defectiveminds.com",$message,"DeFeCtiVeMinDs.com testing cron jobs");
 //mailgo("seth_coder@hotmail.com",$message,"DeFeCtiVeMinDs.com testing cron jobs");
-mailgo("2406196570@vtext.com",$message,"DeFeCtiVeMinDs.com testing cron jobs");
+//mailgo("2406196570@vtext.com",$message,"DeFeCtiVeMinDs.com testing cron jobs");
 dm_log("*********** Weekly Cron Job ************");
 //////////////////////////////////////////////////////////////////////////////////
 // Remove unconfirmed accounts

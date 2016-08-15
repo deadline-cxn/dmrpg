@@ -30,8 +30,8 @@ if($result) {
     #mailgo("seth@defectiveminds.com",$message,"rpg.sethcoder.com new member: $userid");
     mailgo("defectiveseth@gmail.com",$message,"rpg.sethcoder.com new member: $userid");
     #mailgo("will@defectiveminds.com",$message,"DeFeCtiVeMinDs.com new member: $userid");
-	#mailgo("seth_coder@hotmail.com",$message,"DeFeCtiVeMinDs.com new member: $userid");
-	#mailgo("2406196570@vtext.com",$message,"DeFeCtiVeMinDs.com new member: $userid");
+    #mailgo("seth_coder@hotmail.com",$message,"DeFeCtiVeMinDs.com new member: $userid");
+    #mailgo("2406196570@vtext.com",$message,"DeFeCtiVeMinDs.com new member: $userid");
     echo "<h1>You have just registered.</h1><h1>Now check your email to continue...</h1>\n";
 	inform("You must confirm registration within one week or the account will be purged!");
 	echo "<p><a href=index.php>Return to login page</a></p>";
